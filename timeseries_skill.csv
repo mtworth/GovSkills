@@ -1,0 +1,2457 @@
+,PostedData_Formatted,Item,count_jobs_2022
+0,2019-01-01,Tableau,15
+1,2019-01-01,Microstrategy,2
+2,2019-01-01,Data modeling,20
+3,2019-01-01,Metadata,27
+4,2019-01-01,Computer science,1016
+5,2019-01-01,Business intelligence,17
+6,2019-03-01,Data management,508
+7,2019-03-01,Python,43
+8,2019-03-01,Programming languages,54
+9,2019-04-01,Coding,385
+10,2019-04-01,Statistics,1242
+11,2019-04-01,Application software,105
+12,2019-05-01,SAS,70
+13,2019-05-01,Analyzing data,444
+14,2019-09-01,R,543
+15,2019-11-01,Data Analysis,343
+16,2019-11-01,Technical requirements,184
+17,2020-10-01,Quantitative analysis,66
+18,2021-06-01,SPSS,12
+19,2021-06-01,Data Science,40
+20,2021-06-01,Data visualization,35
+21,2021-06-01,API,15
+22,2021-06-01,Advanced analytics,14
+23,2021-06-01,Machine Learning,43
+24,2021-11-01,Data reports,68
+25,2022-02-01,Data requirements,59
+26,2022-12-01,Artificial Intelligence,40
+27,2019-08-01,IBM Cognos,3
+28,2019-09-01,Data Engineering,9
+29,2019-09-01,Data standards,22
+30,2021-01-01,Qualitative analysis,59
+31,2021-11-01,Oracle Business Intelligence,8
+32,2022-02-01,Automation requirements,20
+33,2019-09-01,ARCGIS,28
+34,2020-02-01,Stata,12
+35,2020-06-01,Agile,99
+36,2020-06-01,Application development,61
+37,2022-09-01,Flare,6
+38,2021-10-01,Esri,7
+39,2021-12-01,Jira,7
+40,2022-03-01,Data policies,8
+41,2020-03-01,Integrating data,4
+42,2019-04-01,Computer science,1105
+43,2019-06-01,Coding,413
+44,2019-08-01,Data management,549
+45,2019-08-01,Programming languages,71
+46,2019-11-01,R,418
+47,2019-12-01,Statistics,985
+48,2020-06-01,Analyzing data,452
+49,2020-06-01,Technical requirements,208
+50,2020-08-01,Data Analysis,355
+51,2020-08-01,Business intelligence,43
+52,2021-02-01,Quantitative analysis,89
+53,2021-06-01,Python,58
+54,2021-06-01,SAS,60
+55,2021-06-01,Tableau,52
+56,2022-02-01,Data visualization,59
+57,2022-03-01,Data reports,99
+58,2022-03-01,Data requirements,87
+59,2022-05-01,Data Science,85
+60,2022-06-01,Metadata,65
+61,2019-07-01,Data modeling,23
+62,2022-10-01,Data standards,35
+63,2022-11-01,Automation requirements,11
+64,2020-02-01,SPSS,13
+65,2021-02-01,Machine Learning,22
+66,2021-02-01,Artificial Intelligence,17
+67,2022-02-01,Qualitative analysis,53
+68,2022-08-01,Application development,51
+69,2021-09-01,Stata,24
+70,2021-09-01,Agile,103
+71,2020-11-01,Flare,7
+72,2021-11-01,Advanced analytics,6
+73,2019-05-01,Computer science,1124
+74,2019-10-01,Coding,408
+75,2019-12-01,R,430
+76,2020-01-01,Statistics,1214
+77,2020-08-01,Data management,409
+78,2020-09-01,Technical requirements,181
+79,2020-10-01,Analyzing data,490
+80,2021-06-01,Programming languages,53
+81,2021-06-01,Quantitative analysis,92
+82,2021-08-01,Data Analysis,531
+83,2021-10-01,Application software,83
+84,2022-05-01,Data reports,99
+85,2023-01-01,Data requirements,87
+86,2019-09-01,Data Science,29
+87,2019-09-01,Metadata,44
+88,2019-09-01,Data visualization,25
+89,2021-05-01,SAS,83
+90,2021-11-01,Business intelligence,52
+91,2022-10-01,Data modeling,24
+92,2022-08-01,Machine Learning,81
+93,2019-12-01,Application development,26
+94,2021-09-01,SPSS,26
+95,2022-03-01,Qualitative analysis,66
+96,2022-08-01,Agile,142
+97,2021-11-01,Artificial Intelligence,39
+98,2022-03-01,Data standards,28
+99,2019-03-01,Stata,13
+100,2019-06-01,Computer science,1085
+101,2020-02-01,Statistics,1183
+102,2020-07-01,R,509
+103,2020-09-01,Coding,376
+104,2020-12-01,Analyzing data,390
+105,2021-03-01,Technical requirements,309
+106,2021-05-01,Data management,440
+107,2021-09-01,Data Analysis,459
+108,2022-09-01,Quantitative analysis,111
+109,2022-10-01,Application software,152
+110,2019-11-01,Data reports,64
+111,2022-11-01,Metadata,61
+112,2022-11-01,Programming languages,65
+113,2019-09-01,SAS,63
+114,2020-09-01,Data visualization,26
+115,2021-02-01,Application development,51
+116,2022-05-01,Data requirements,67
+117,2022-10-01,Data Science,91
+118,2022-11-01,Data modeling,19
+119,2023-01-01,Machine Learning,74
+120,2019-12-01,Agile,53
+121,2020-03-01,SPSS,13
+122,2022-03-01,Business intelligence,63
+123,2022-12-01,Qualitative analysis,48
+124,2019-03-01,Data standards,25
+125,2020-03-01,Statistics,1320
+126,2020-04-01,Computer science,930
+127,2020-10-01,R,542
+128,2021-02-01,Coding,362
+129,2022-02-01,Data Analysis,541
+130,2022-04-01,Data management,588
+131,2022-04-01,Analyzing data,639
+132,2022-08-01,Technical requirements,345
+133,2022-11-01,Quantitative analysis,111
+134,2023-02-01,Application software,74
+135,2020-04-01,Data reports,48
+136,2020-02-01,SAS,56
+137,2020-04-01,Programming languages,46
+138,2021-03-01,Metadata,36
+139,2020-04-01,Data visualization,37
+140,2023-01-01,Data Science,96
+141,2019-10-01,Application development,46
+142,2021-05-01,Agile,80
+143,2021-09-01,Data requirements,55
+144,2021-11-01,Machine Learning,42
+145,2019-03-01,Data modeling,15
+146,2019-03-01,Business intelligence,37
+147,2019-04-01,SPSS,21
+148,2020-05-01,Statistics,1104
+149,2020-07-01,Computer science,882
+150,2021-05-01,Coding,436
+151,2021-06-01,R,763
+152,2022-05-01,Data Analysis,658
+153,2022-07-01,Data management,600
+154,2022-07-01,Analyzing data,623
+155,2022-09-01,Technical requirements,274
+156,2022-04-01,Quantitative analysis,125
+157,2019-08-01,Application software,87
+158,2021-05-01,Programming languages,72
+159,2021-10-01,Data reports,70
+160,2019-08-01,Metadata,22
+161,2022-10-01,Data visualization,60
+162,2021-09-01,Data Science,63
+163,2021-09-01,Application development,55
+164,2019-01-01,Data requirements,31
+165,2020-11-01,Agile,59
+166,2020-06-01,Statistics,1094
+167,2020-09-01,Computer science,976
+168,2021-08-01,R,747
+169,2022-01-01,Coding,459
+170,2022-06-01,Python,90
+171,2022-06-01,Data Analysis,589
+172,2022-08-01,Data management,756
+173,2023-01-01,Analyzing data,795
+174,2019-09-01,Technical requirements,257
+175,2022-05-01,Quantitative analysis,109
+176,2022-02-01,Programming languages,84
+177,2023-01-01,Application software,123
+178,2022-06-01,ARCGIS,29
+179,2019-12-01,Data reports,43
+180,2023-01-01,Metadata,47
+181,2022-04-01,Agile,99
+182,2022-12-01,Data Science,69
+183,2020-05-01,Application development,33
+184,2020-08-01,Statistics,998
+185,2020-10-01,Computer science,908
+186,2021-09-01,R,736
+187,2022-07-01,Data Analysis,604
+188,2022-10-01,Data management,701
+189,2022-12-01,Coding,531
+190,2023-02-01,Analyzing data,369
+191,2019-09-01,Python,40
+192,2021-11-01,Technical requirements,258
+193,2022-06-01,Quantitative analysis,115
+194,2019-12-01,Programming languages,51
+195,2019-12-01,Application software,71
+196,2022-10-01,ARCGIS,22
+197,2021-08-01,Data reports,84
+198,2022-03-01,Metadata,49
+199,2022-11-01,Agile,112
+200,2020-08-01,Application development,43
+201,2020-09-01,Statistics,1224
+202,2020-11-01,Computer science,901
+203,2021-11-01,R,686
+204,2022-08-01,Data Analysis,661
+205,2022-11-01,Data management,694
+206,2023-02-01,Coding,282
+207,2019-08-01,Analyzing data,449
+208,2022-06-01,Technical requirements,332
+209,2022-11-01,Python,83
+210,2020-05-01,Quantitative analysis,86
+211,2021-02-01,Programming languages,41
+212,2019-10-01,Application software,95
+213,2022-11-01,Data reports,82
+214,2021-10-01,ARCGIS,25
+215,2019-10-01,Metadata,39
+216,2020-10-01,Statistics,1279
+217,2020-12-01,Computer science,810
+218,2022-04-01,R,787
+219,2023-01-01,Data Analysis,709
+220,2019-01-01,Data management,420
+221,2019-09-01,Analyzing data,484
+222,2019-09-01,Coding,386
+223,2022-10-01,Technical requirements,291
+224,2022-02-01,Python,102
+225,2023-01-01,Quantitative analysis,135
+226,2023-01-01,Programming languages,110
+227,2019-01-01,Application software,62
+228,2020-12-01,Statistics,1027
+229,2021-01-01,Computer science,924
+230,2022-05-01,R,878
+231,2019-02-01,Data Analysis,377
+232,2019-06-01,Data management,444
+233,2019-10-01,Analyzing data,467
+234,2019-12-01,Coding,298
+235,2019-03-01,Technical requirements,268
+236,2019-01-01,Quantitative analysis,77
+237,2019-10-01,Programming languages,45
+238,2022-05-01,Python,100
+239,2022-11-01,Application software,122
+240,2021-02-01,Statistics,1084
+241,2021-02-01,Computer science,972
+242,2022-06-01,R,865
+243,2019-04-01,Data Analysis,403
+244,2019-09-01,Data management,476
+245,2019-11-01,Analyzing data,365
+246,2021-04-01,Coding,416
+247,2019-04-01,Technical requirements,290
+248,2020-03-01,Programming languages,55
+249,2020-11-01,Quantitative analysis,96
+250,2021-01-01,Python,50
+251,2019-06-01,Application software,75
+252,2021-03-01,Statistics,1338
+253,2021-03-01,Computer science,1080
+254,2023-01-01,R,958
+255,2019-07-01,Data Analysis,402
+256,2020-01-01,Analyzing data,452
+257,2020-05-01,Data management,395
+258,2021-10-01,Coding,400
+259,2020-10-01,Technical requirements,180
+260,2021-01-01,Programming languages,62
+261,2020-05-01,Python,43
+262,2020-05-01,Application software,84
+263,2021-04-01,Statistics,1221
+264,2021-04-01,Computer science,1094
+265,2019-02-01,R,429
+266,2019-09-01,Data Analysis,441
+267,2020-12-01,Data management,352
+268,2021-04-01,Analyzing data,511
+269,2021-11-01,Coding,386
+270,2023-01-01,Technical requirements,352
+271,2022-07-01,Programming languages,92
+272,2020-06-01,Application software,101
+273,2021-05-01,Statistics,1254
+274,2021-05-01,Computer science,1035
+275,2019-04-01,R,457
+276,2021-01-01,Data Analysis,420
+277,2021-03-01,Data management,482
+278,2021-09-01,Analyzing data,491
+279,2022-10-01,Coding,506
+280,2019-12-01,Technical requirements,204
+281,2020-05-01,Programming languages,51
+282,2020-08-01,Application software,77
+283,2021-06-01,Statistics,1283
+284,2021-06-01,Computer science,939
+285,2019-05-01,R,461
+286,2021-02-01,Data Analysis,404
+287,2021-04-01,Data management,471
+288,2022-03-01,Analyzing data,715
+289,2020-05-01,Coding,286
+290,2019-10-01,Technical requirements,200
+291,2020-06-01,Programming languages,53
+292,2021-09-01,Computer science,1007
+293,2021-11-01,Statistics,1297
+294,2019-10-01,R,578
+295,2021-10-01,Data Analysis,498
+296,2022-01-01,Data management,586
+297,2022-10-01,Analyzing data,683
+298,2022-03-01,Coding,543
+299,2020-07-01,Technical requirements,218
+300,2021-10-01,Computer science,1007
+301,2021-12-01,Statistics,1174
+302,2021-01-01,R,553
+303,2021-11-01,Data Analysis,458
+304,2022-02-01,Data management,603
+305,2022-12-01,Analyzing data,676
+306,2022-07-01,Coding,436
+307,2021-04-01,Technical requirements,206
+308,2021-11-01,Computer science,989
+309,2022-03-01,Statistics,1715
+310,2021-10-01,R,687
+311,2022-03-01,Data Analysis,621
+312,2022-06-01,Data management,686
+313,2020-03-01,Analyzing data,462
+314,2020-04-01,Coding,331
+315,2021-09-01,Technical requirements,265
+316,2021-12-01,Computer science,970
+317,2022-04-01,Statistics,1400
+318,2021-12-01,R,749
+319,2022-12-01,Data Analysis,548
+320,2023-02-01,Data management,295
+321,2020-04-01,Analyzing data,434
+322,2021-01-01,Coding,313
+323,2020-12-01,Technical requirements,180
+324,2022-01-01,Computer science,1105
+325,2022-05-01,Statistics,1429
+326,2022-08-01,R,998
+327,2023-02-01,Data Analysis,367
+328,2019-07-01,Data management,472
+329,2020-09-01,Analyzing data,479
+330,2022-04-01,Coding,465
+331,2021-07-01,Technical requirements,250
+332,2022-04-01,Computer science,1122
+333,2022-09-01,Statistics,1528
+334,2022-10-01,R,896
+335,2019-12-01,Data Analysis,320
+336,2020-09-01,Data management,413
+337,2021-12-01,Analyzing data,531
+338,2022-06-01,Coding,518
+339,2022-03-01,Technical requirements,344
+340,2022-06-01,Computer science,1203
+341,2022-10-01,Statistics,1630
+342,2022-11-01,R,802
+343,2020-10-01,Data management,406
+344,2021-03-01,Data Analysis,525
+345,2022-05-01,Analyzing data,646
+346,2019-08-01,Coding,409
+347,2021-10-01,Technical requirements,249
+348,2022-09-01,Computer science,1145
+349,2022-11-01,Statistics,1372
+350,2022-12-01,R,869
+351,2021-08-01,Data management,557
+352,2022-01-01,Data Analysis,598
+353,2022-11-01,Analyzing data,632
+354,2020-08-01,Coding,389
+355,2022-05-01,Technical requirements,280
+356,2022-11-01,Computer science,1102
+357,2022-12-01,Statistics,1431
+358,2019-06-01,R,537
+359,2023-01-01,Data management,701
+360,2019-03-01,Analyzing data,457
+361,2019-05-01,Data Analysis,391
+362,2020-11-01,Coding,353
+363,2021-01-01,Technical requirements,192
+364,2022-12-01,Computer science,1020
+365,2019-02-01,Statistics,1179
+366,2020-01-01,R,524
+367,2019-06-01,Data Analysis,421
+368,2019-10-01,Data management,421
+369,2021-02-01,Analyzing data,490
+370,2021-08-01,Coding,544
+371,2020-08-01,Technical requirements,156
+372,2019-03-01,Statistics,1331
+373,2019-09-01,Computer science,1083
+374,2020-02-01,R,451
+375,2020-06-01,Data management,390
+376,2021-11-01,Analyzing data,559
+377,2022-09-01,Data Analysis,573
+378,2019-08-01,Statistics,1196
+379,2019-12-01,Computer science,818
+380,2020-09-01,R,486
+381,2021-02-01,Data management,371
+382,2019-07-01,Analyzing data,412
+383,2020-11-01,Data Analysis,355
+384,2021-12-01,Coding,423
+385,2019-09-01,Statistics,1293
+386,2020-01-01,Computer science,1088
+387,2021-02-01,R,541
+388,2021-06-01,Data management,527
+389,2020-02-01,Analyzing data,479
+390,2022-02-01,Coding,504
+391,2022-04-01,Data Analysis,557
+392,2019-10-01,Statistics,1347
+393,2020-03-01,Computer science,1086
+394,2022-02-01,R,788
+395,2021-09-01,Data management,496
+396,2020-08-01,Analyzing data,444
+397,2022-11-01,Coding,476
+398,2020-03-01,Data Analysis,390
+399,2020-08-01,Computer science,822
+400,2021-01-01,Statistics,1087
+401,2020-05-01,R,451
+402,2021-12-01,Data management,499
+403,2021-05-01,Analyzing data,524
+404,2023-01-01,Coding,547
+405,2020-04-01,Data Analysis,359
+406,2021-10-01,Statistics,1196
+407,2022-02-01,Computer science,1251
+408,2021-04-01,R,600
+409,2022-12-01,Data management,668
+410,2022-02-01,Analyzing data,622
+411,2019-02-01,Coding,337
+412,2020-12-01,Data Analysis,373
+413,2022-01-01,Statistics,1427
+414,2022-05-01,Computer science,1086
+415,2019-08-01,R,600
+416,2020-03-01,Data management,406
+417,2019-06-01,Analyzing data,446
+418,2021-12-01,Data Analysis,530
+419,2022-08-01,Coding,502
+420,2022-07-01,Computer science,1059
+421,2022-07-01,Statistics,1309
+422,2020-07-01,Data management,387
+423,2022-03-01,R,924
+424,2021-06-01,Analyzing data,625
+425,2019-03-01,Data Analysis,459
+426,2022-08-01,Statistics,1588
+427,2022-08-01,Computer science,1275
+428,2021-01-01,Data management,392
+429,2022-07-01,R,825
+430,2022-09-01,Analyzing data,602
+431,2022-10-01,Computer science,1342
+432,2023-01-01,Statistics,1672
+433,2021-07-01,Data management,493
+434,2022-09-01,R,889
+435,2019-04-01,Analyzing data,403
+436,2023-01-01,Computer science,1235
+437,2019-06-01,Statistics,1132
+438,2021-11-01,Data management,523
+439,2019-01-01,R,390
+440,2019-12-01,Analyzing data,332
+441,2019-07-01,Computer science,1145
+442,2019-07-01,Statistics,1222
+443,2022-05-01,Data management,602
+444,2019-03-01,R,514
+445,2019-10-01,Computer science,1232
+446,2020-04-01,Statistics,1076
+447,2020-02-01,Data management,369
+448,2021-05-01,R,644
+449,2022-02-01,Statistics,1357
+450,2020-06-01,Computer science,938
+451,2021-07-01,R,655
+452,2022-03-01,Data management,677
+453,2019-05-01,Statistics,1119
+454,2021-07-01,Computer science,950
+455,2022-09-01,Data management,682
+456,2023-02-01,R,474
+457,2020-11-01,Statistics,1159
+458,2019-02-01,Computer science,1182
+459,2019-05-01,Data management,484
+460,2020-04-01,R,475
+461,2021-02-01,SAS,79
+462,2021-07-01,Statistics,1128
+463,2020-02-01,Computer science,1029
+464,2020-06-01,R,500
+465,2021-09-01,SAS,98
+466,2021-09-01,Statistics,1280
+467,2019-03-01,Computer science,1228
+468,2020-08-01,R,592
+469,2022-02-01,SAS,96
+470,2019-01-01,Statistics,894
+471,2019-08-01,Computer science,1023
+472,2020-07-01,Statistics,1028
+473,2019-11-01,Computer science,872
+474,2020-03-01,SAS,85
+475,2020-05-01,Computer science,885
+476,2021-01-01,SAS,52
+477,2021-08-01,Computer science,1101
+478,2019-03-01,SAS,58
+479,2022-03-01,Computer science,1436
+480,2019-04-01,SAS,73
+481,2020-06-01,SAS,61
+482,2023-02-01,Statistics,781
+483,2019-11-01,Statistics,986
+484,2021-08-01,Statistics,1323
+485,2022-06-01,Statistics,1516
+486,2021-12-01,Power BI,32
+487,2021-04-01,ETL,11
+488,2023-02-01,Product owner,9
+489,2022-05-01,Software developer,6
+490,2021-04-01,Data policies,8
+491,2022-06-01,Power BI,34
+492,2019-07-01,ETL,6
+493,2019-10-01,Jira,5
+494,2021-06-01,Integrating data,7
+495,2021-12-01,Esri,18
+496,2019-10-01,Automation requirements,14
+497,2021-12-01,Tableau,38
+498,2022-06-01,Advanced analytics,7
+499,2020-04-01,Power BI,7
+500,2019-01-01,Flare,10
+501,2021-10-01,ETL,8
+502,2019-07-01,Esri,3
+503,2021-04-01,Artificial Intelligence,30
+504,2019-08-01,Stata,9
+505,2021-04-01,Tableau,37
+506,2021-01-01,Artificial Intelligence,19
+507,2022-07-01,Qualitative analysis,50
+508,2019-12-01,Stata,7
+509,2021-07-01,Tableau,31
+510,2019-08-01,Data modeling,27
+511,2020-10-01,Machine Learning,35
+512,2021-03-01,Artificial Intelligence,41
+513,2019-08-01,Qualitative analysis,55
+514,2022-08-01,Esri,10
+515,2022-10-01,Stata,13
+516,2022-10-01,Data requirements,66
+517,2021-04-01,Data modeling,17
+518,2021-04-01,Data visualization,55
+519,2021-03-01,Machine Learning,38
+520,2022-04-01,Qualitative analysis,42
+521,2021-04-01,Data requirements,58
+522,2022-06-01,Data visualization,56
+523,2020-10-01,Data Science,29
+524,2021-01-01,Data modeling,12
+525,2019-10-01,Machine Learning,27
+526,2021-09-01,Qualitative analysis,25
+527,2019-02-01,Application development,33
+528,2021-12-01,Business intelligence,52
+529,2023-02-01,Agile,74
+530,2020-10-01,Data visualization,40
+531,2021-03-01,Data Science,37
+532,2022-06-01,Data requirements,77
+533,2021-04-01,Machine Learning,38
+534,2022-09-01,Qualitative analysis,61
+535,2021-10-01,Data modeling,17
+536,2021-12-01,SPSS,20
+537,2019-06-01,Metadata,35
+538,2019-07-01,Data reports,77
+539,2021-04-01,Application development,50
+540,2020-10-01,Business intelligence,41
+541,2021-03-01,Data visualization,47
+542,2022-09-01,Data Science,108
+543,2022-12-01,Data requirements,60
+544,2019-10-01,Agile,54
+545,2021-10-01,Machine Learning,41
+546,2022-01-01,Qualitative analysis,59
+547,2023-01-01,Data modeling,23
+548,2021-06-01,Data reports,76
+549,2020-10-01,SPSS,23
+550,2019-10-01,Business intelligence,45
+551,2021-01-01,Agile,74
+552,2022-01-01,Data Science,48
+553,2020-10-01,Application development,34
+554,2022-08-01,Data requirements,67
+555,2020-01-01,Machine Learning,15
+556,2023-01-01,Qualitative analysis,81
+557,2022-01-01,Data standards,29
+558,2020-10-01,Data reports,50
+559,2022-05-01,Agile,127
+560,2019-12-01,SPSS,15
+561,2022-09-01,Metadata,47
+562,2019-08-01,Business intelligence,39
+563,2020-02-01,Application development,38
+564,2021-06-01,Data requirements,51
+565,2021-01-01,Quantitative analysis,77
+566,2021-04-01,Data standards,13
+567,2019-08-01,Agile,74
+568,2021-02-01,Data reports,62
+569,2021-10-01,Application development,39
+570,2021-10-01,Metadata,33
+571,2021-01-01,Business intelligence,44
+572,2021-08-01,SPSS,18
+573,2021-08-01,Quantitative analysis,108
+574,2019-06-01,Data standards,33
+575,2022-06-01,Data reports,95
+576,2019-06-01,Agile,46
+577,2022-08-01,Business intelligence,86
+578,2021-05-01,API,20
+579,2019-03-01,Quantitative analysis,85
+580,2021-04-01,Agile,82
+581,2021-05-01,Data reports,66
+582,2021-11-01,ARCGIS,19
+583,2022-12-01,Quantitative analysis,133
+584,2023-01-01,API,33
+585,2022-03-01,Programming languages,82
+586,2021-04-01,Python,58
+587,2019-06-01,Quantitative analysis,85
+588,2021-01-01,API,20
+589,2020-10-01,Python,60
+590,2020-03-01,Quantitative analysis,78
+591,2022-01-01,Application software,97
+592,2019-08-01,Python,36
+593,2021-11-01,Quantitative analysis,102
+594,2020-11-01,Application software,76
+595,2021-04-01,ARCGIS,18
+596,2021-12-01,Python,78
+597,2021-05-01,Quantitative analysis,96
+598,2019-03-01,Application software,90
+599,2021-09-01,Python,71
+600,2022-01-01,Quantitative analysis,97
+601,2022-08-01,ARCGIS,27
+602,2020-10-01,Application software,78
+603,2022-08-01,Quantitative analysis,139
+604,2022-08-01,Python,143
+605,2021-01-01,Application software,82
+606,2022-10-01,Quantitative analysis,123
+607,2022-03-01,Application software,111
+608,2022-12-01,Application software,108
+609,2019-08-01,Technical requirements,247
+610,2022-11-01,Technical requirements,279
+611,2022-02-01,Technical requirements,271
+612,2023-02-01,Technical requirements,151
+613,2020-01-01,Technical requirements,212
+614,2021-02-01,Technical requirements,202
+615,2022-04-01,Technical requirements,282
+616,2022-09-01,Coding,496
+617,2021-06-01,Technical requirements,256
+618,2020-02-01,Data Analysis,348
+619,2022-05-01,Coding,491
+620,2020-07-01,Data Analysis,390
+621,2020-10-01,Coding,360
+622,2022-10-01,Data Analysis,673
+623,2020-12-01,Coding,324
+624,2022-11-01,Data Analysis,614
+625,2020-02-01,Coding,358
+626,2019-08-01,Data Analysis,430
+627,2021-04-01,Data Analysis,493
+628,2021-07-01,Data Analysis,536
+629,2019-01-01,Data Analysis,384
+630,2021-10-01,Data management,494
+631,2019-10-01,Data Analysis,421
+632,2020-01-01,Data management,351
+633,2020-10-01,Data Analysis,359
+634,2020-11-01,R,469
+635,2022-01-01,Analyzing data,552
+636,2021-03-01,R,697
+637,2020-05-01,Analyzing data,413
+638,2022-01-01,R,763
+639,2019-07-01,R,542
+640,2021-03-01,Analyzing data,550
+641,2020-03-01,R,557
+642,2022-06-01,Analyzing data,657
+643,2023-02-01,Computer science,707
+644,2020-12-01,R,479
+645,2019-01-01,Analyzing data,313
+646,2021-03-01,Coding,424
+647,2021-04-01,Programming languages,65
+648,2020-11-01,Analyzing data,419
+649,2019-05-01,Coding,369
+650,2022-06-01,Programming languages,85
+651,2021-10-01,Analyzing data,485
+652,2020-03-01,Coding,320
+653,2020-10-01,Programming languages,65
+654,2019-02-01,Analyzing data,411
+655,2021-08-01,Analyzing data,597
+656,2021-12-01,Programming languages,57
+657,2020-07-01,Analyzing data,401
+658,2021-09-01,Programming languages,65
+659,2021-01-01,Analyzing data,427
+660,2022-08-01,Analyzing data,687
+661,2021-12-01,SAS,80
+662,2020-11-01,SAS,71
+663,2021-04-01,Data Science,34
+664,2020-09-01,SAS,75
+665,2021-10-01,Data Science,43
+666,2019-04-01,Data management,422
+667,2020-10-01,SAS,59
+668,2021-07-01,Data Science,38
+669,2019-02-01,Data management,405
+670,2021-11-01,SAS,81
+671,2019-08-01,SAS,68
+672,2019-12-01,SAS,48
+673,2023-01-01,SAS,100
+674,2021-07-01,SAS,85
+675,2021-08-01,SAS,84
+676,2022-10-01,SAS,83
+677,2019-11-01,Oracle Business Intelligence,2
+678,2021-08-01,Oracle Business Intelligence,7
+679,2019-09-01,Flare,12
+680,2020-08-01,Microstrategy,5
+681,2020-02-01,Automation requirements,16
+682,2022-03-01,Jira,7
+683,2022-05-01,Advanced analytics,12
+684,2022-11-01,Power BI,28
+685,2020-10-01,Flare,10
+686,2022-09-01,Jira,6
+687,2020-04-01,Tableau,18
+688,2022-05-01,Flare,4
+689,2019-10-01,Artificial Intelligence,22
+690,2021-12-01,Stata,17
+691,2020-07-01,Tableau,23
+692,2021-02-01,Flare,4
+693,2021-08-01,Artificial Intelligence,31
+694,2020-12-01,Stata,19
+695,2020-11-01,Esri,9
+696,2022-05-01,Sagemaker,1
+697,2020-08-01,Artificial Intelligence,32
+698,2020-07-01,Stata,14
+699,2020-08-01,Stata,6
+700,2022-12-01,Data visualization,50
+701,2021-08-01,Machine Learning,45
+702,2020-05-01,Qualitative analysis,53
+703,2020-05-01,Data visualization,20
+704,2019-03-01,Qualitative analysis,48
+705,2020-01-01,Data visualization,23
+706,2019-09-01,Machine Learning,33
+707,2022-12-01,Application development,61
+708,2020-07-01,SPSS,19
+709,2021-12-01,Data visualization,40
+710,2022-05-01,Machine Learning,56
+711,2021-02-01,Metadata,24
+712,2022-02-01,Application development,40
+713,2022-09-01,Data visualization,66
+714,2020-08-01,Machine Learning,42
+715,2019-02-01,Metadata,33
+716,2020-08-01,Data reports,73
+717,2022-02-01,Agile,103
+718,2020-03-01,Application development,39
+719,2021-12-01,Machine Learning,26
+720,2021-07-01,Data reports,79
+721,2020-03-01,Agile,87
+722,2019-07-01,Application development,43
+723,2022-05-01,Metadata,31
+724,2021-02-01,Agile,65
+725,2022-09-01,Data reports,92
+726,2020-04-01,Application development,31
+727,2021-12-01,Metadata,37
+728,2021-07-01,Data requirements,48
+729,2022-03-01,Agile,149
+730,2023-01-01,Data reports,104
+731,2022-09-01,Application development,50
+732,2021-06-01,Metadata,45
+733,2022-09-01,Data requirements,56
+734,2019-07-01,Agile,61
+735,2019-06-01,Data reports,60
+736,2019-03-01,Application development,44
+737,2021-06-01,Data standards,22
+738,2022-11-01,Data requirements,50
+739,2020-06-01,Data reports,46
+740,2021-07-01,Data standards,27
+741,2023-02-01,Data requirements,47
+742,2019-03-01,Integrating data,4
+743,2020-01-01,Data standards,20
+744,2020-01-01,Data requirements,52
+745,2022-09-01,Software developer,8
+746,2020-08-01,Quantitative analysis,91
+747,2019-11-01,Business intelligence,26
+748,2019-06-01,Data requirements,44
+749,2019-12-01,Integrating data,8
+750,2020-02-01,Quantitative analysis,68
+751,2022-09-01,Business intelligence,62
+752,2020-03-01,Data requirements,60
+753,2021-08-01,Application software,115
+754,2022-12-01,Python,90
+755,2021-10-01,Quantitative analysis,87
+756,2020-09-01,Business intelligence,51
+757,2022-06-01,Application software,125
+758,2022-10-01,Python,89
+759,2019-02-01,Quantitative analysis,80
+760,2022-02-01,Business intelligence,51
+761,2022-08-01,Application software,137
+762,2020-07-01,Quantitative analysis,82
+763,2020-11-01,Business intelligence,40
+764,2020-03-01,Application software,90
+765,2019-07-01,Python,38
+766,2022-03-01,Quantitative analysis,122
+767,2022-11-01,Business intelligence,50
+768,2021-02-01,Application software,79
+769,2020-08-01,Python,49
+770,2019-09-01,Quantitative analysis,92
+771,2021-08-01,Business intelligence,75
+772,2019-05-01,Application software,90
+773,2020-12-01,Python,51
+774,2019-10-01,Quantitative analysis,83
+775,2019-07-01,Application software,119
+776,2022-03-01,Python,98
+777,2021-04-01,Quantitative analysis,78
+778,2019-11-01,Application software,76
+779,2023-01-01,Python,113
+780,2022-07-01,Application software,106
+781,2020-12-01,Application software,61
+782,2019-02-01,Application software,72
+783,2021-02-01,Data Engineering,1
+784,2019-06-01,Technical requirements,259
+785,2021-12-01,Technical requirements,212
+786,2020-11-01,Technical requirements,188
+787,2020-04-01,Technical requirements,220
+788,2022-07-01,Technical requirements,237
+789,2020-01-01,Data Analysis,355
+790,2020-02-01,Technical requirements,217
+791,2020-09-01,Data Analysis,369
+792,2020-05-01,Data Analysis,360
+793,2020-06-01,Data Analysis,340
+794,2021-06-01,Data Analysis,473
+795,2021-05-01,Data Analysis,471
+796,2021-09-01,Coding,427
+797,2020-07-01,Coding,351
+798,2021-06-01,Coding,464
+799,2019-01-01,Coding,347
+800,2019-07-01,Coding,397
+801,2020-01-01,Coding,332
+802,2021-07-01,Analyzing data,469
+803,2021-07-01,Coding,443
+804,2019-03-01,Coding,361
+805,2019-11-01,Coding,292
+806,2020-11-01,Data management,367
+807,2022-06-01,SAS,89
+808,2019-11-01,Data management,303
+809,2020-07-01,SAS,61
+810,2019-12-01,Data management,335
+811,2022-05-01,SAS,106
+812,2020-04-01,Data management,404
+813,2022-01-01,SAS,87
+814,2020-08-01,SAS,49
+815,2019-10-01,Data Science,39
+816,2020-03-01,Technical requirements,248
+817,2021-08-01,Technical requirements,297
+818,2020-08-01,Programming languages,56
+819,2020-01-01,Programming languages,60
+820,2019-06-01,Programming languages,60
+821,2019-07-01,Programming languages,68
+822,2022-10-01,Automation requirements,14
+823,2022-05-01,Power BI,41
+824,2019-12-01,Automation requirements,12
+825,2022-10-01,Power BI,57
+826,2022-05-01,Jira,7
+827,2019-08-01,Automation requirements,7
+828,2022-04-01,Power BI,24
+829,2022-11-01,Jira,13
+830,2022-07-01,Tableau,57
+831,2020-11-01,Automation requirements,9
+832,2021-03-01,Tableau,32
+833,2022-05-01,Tableau,43
+834,2022-03-01,Artificial Intelligence,52
+835,2022-07-01,Data modeling,24
+836,2021-03-01,Stata,20
+837,2022-10-01,Tableau,66
+838,2023-02-01,Data modeling,16
+839,2020-07-01,Esri,6
+840,2022-12-01,Stata,24
+841,2021-09-01,Job scheduling,2
+842,2020-06-01,SPSS,23
+843,2021-10-01,Qualitative analysis,30
+844,2021-07-01,Data visualization,35
+845,2022-08-01,Qualitative analysis,73
+846,2022-12-01,SPSS,22
+847,2020-11-01,Machine Learning,20
+848,2022-05-01,Data visualization,45
+849,2019-12-01,Qualitative analysis,52
+850,2021-03-01,SPSS,30
+851,2020-07-01,Machine Learning,38
+852,2020-07-01,Data visualization,24
+853,2020-02-01,Qualitative analysis,40
+854,2022-03-01,Machine Learning,61
+855,2020-10-01,Qualitative analysis,41
+856,2020-08-01,Metadata,34
+857,2022-10-01,Machine Learning,59
+858,2020-03-01,Qualitative analysis,33
+859,2023-02-01,Application development,34
+860,2020-01-01,Metadata,31
+861,2022-05-01,Qualitative analysis,61
+862,2020-12-01,Application development,34
+863,2020-09-01,Data reports,57
+864,2021-04-01,Metadata,39
+865,2021-06-01,Agile,87
+866,2020-07-01,Application development,40
+867,2021-12-01,Data reports,91
+868,2022-02-01,Metadata,30
+869,2022-01-01,Application development,43
+870,2020-09-01,Application Programming Interface,2
+871,2022-07-01,Application development,45
+872,2021-03-01,Application development,56
+873,2019-05-01,Software developer,3
+874,2023-02-01,Data standards,18
+875,2020-01-01,Quantitative analysis,66
+876,2022-06-01,Data standards,27
+877,2020-06-01,Quantitative analysis,86
+878,2022-07-01,Quantitative analysis,106
+879,2021-04-01,Business intelligence,40
+880,2020-11-01,Python,51
+881,2022-07-01,Business intelligence,64
+882,2019-04-01,Quantitative analysis,87
+883,2020-06-01,API,19
+884,2019-04-01,Python,35
+885,2021-11-01,Data requirements,67
+886,2020-02-01,Application software,76
+887,2022-12-01,ARCGIS,32
+888,2020-07-01,Python,50
+889,2021-10-01,Data requirements,52
+890,2021-05-01,Application software,108
+891,2021-03-01,Python,56
+892,2019-01-01,ARCGIS,12
+893,2021-07-01,Application software,79
+894,2019-03-01,ARCGIS,26
+895,2022-02-01,Application software,113
+896,2022-02-01,ARCGIS,26
+897,2021-11-01,Application software,107
+898,2021-09-01,ARCGIS,35
+899,2021-06-01,Application software,90
+900,2022-05-01,Application software,120
+901,2022-12-01,Agile,118
+902,2020-12-01,Agile,60
+903,2022-10-01,Agile,140
+904,2020-04-01,Agile,70
+905,2022-07-01,Agile,122
+906,2019-01-01,Agile,42
+907,2021-07-01,Agile,82
+908,2022-06-01,Agile,150
+909,2020-06-01,Coding,395
+910,2020-08-01,Integrating data,10
+911,2019-06-01,SAS,74
+912,2021-03-01,SAS,93
+913,2020-12-01,SAS,67
+914,2021-04-01,SAS,73
+915,2023-02-01,Data Science,41
+916,2020-07-01,Data Science,29
+917,2021-11-01,Data Science,53
+918,2022-03-01,Data Science,72
+919,2022-07-01,Data Science,86
+920,2019-05-01,Technical requirements,236
+921,2019-02-01,Technical requirements,239
+922,2022-01-01,Technical requirements,259
+923,2020-05-01,Technical requirements,212
+924,2021-08-01,Programming languages,84
+925,2020-07-01,Programming languages,55
+926,2022-05-01,Programming languages,84
+927,2022-10-01,Programming languages,72
+928,2021-03-01,Programming languages,57
+929,2021-05-01,Google Analytics,1
+930,2021-05-01,Digital analytics,1
+931,2022-09-01,Data procedures,3
+932,2021-08-01,Product owner,7
+933,2021-06-01,Product owner,8
+934,2020-12-01,Automation requirements,7
+935,2022-09-01,Automation requirements,12
+936,2022-06-01,Artificial Intelligence,47
+937,2021-11-01,Tableau,23
+938,2020-10-01,Artificial Intelligence,20
+939,2021-11-01,Stata,8
+940,2019-03-01,Tableau,17
+941,2020-10-01,Data modeling,12
+942,2020-04-01,Stata,11
+943,2021-11-01,Data visualization,37
+944,2021-09-01,Data visualization,55
+945,2020-06-01,Machine Learning,33
+946,2019-05-01,Data visualization,21
+947,2019-11-01,Qualitative analysis,44
+948,2021-01-01,Machine Learning,19
+949,2021-05-01,Qualitative analysis,32
+950,2020-04-01,Machine Learning,27
+951,2019-05-01,Metadata,17
+952,2021-08-01,Qualitative analysis,58
+953,2020-11-01,Data reports,63
+954,2020-04-01,Metadata,33
+955,2022-10-01,Qualitative analysis,54
+956,2022-02-01,Data reports,83
+957,2022-04-01,Metadata,43
+958,2019-04-01,Qualitative analysis,33
+959,2019-10-01,Data reports,66
+960,2022-04-01,Application development,54
+961,2020-06-01,Metadata,23
+962,2020-08-01,Qualitative analysis,34
+963,2019-05-01,Data reports,60
+964,2021-07-01,Application development,51
+965,2021-07-01,Metadata,32
+966,2021-04-01,Qualitative analysis,50
+967,2023-01-01,Application development,45
+968,2020-10-01,Metadata,26
+969,2021-09-01,Metadata,45
+970,2021-02-01,Software developer,4
+971,2022-02-01,Quantitative analysis,112
+972,2020-04-01,Data standards,24
+973,2020-09-01,Quantitative analysis,67
+974,2021-08-01,Data standards,17
+975,2021-09-01,Quantitative analysis,104
+976,2022-02-01,Data standards,24
+977,2021-07-01,Business intelligence,43
+978,2021-07-01,Python,73
+979,2022-06-01,Business intelligence,42
+980,2020-06-01,Business intelligence,56
+981,2021-11-01,Python,81
+982,2021-02-01,Data requirements,43
+983,2022-07-01,Python,103
+984,2019-05-01,Data requirements,46
+985,2021-02-01,ARCGIS,9
+986,2021-12-01,Data requirements,56
+987,2021-06-01,ARCGIS,18
+988,2020-11-01,Data requirements,22
+989,2019-05-01,ARCGIS,17
+990,2020-02-01,ARCGIS,24
+991,2021-10-01,API,11
+992,2021-03-01,Application software,91
+993,2022-04-01,Application software,105
+994,2019-02-01,Data Engineering,5
+995,2020-09-01,Agile,88
+996,2021-10-01,Agile,105
+997,2020-08-01,Agile,67
+998,2019-02-01,Agile,59
+999,2019-04-01,Agile,70
+1000,2021-08-01,Agile,114
+1001,2023-01-01,Agile,161
+1002,2021-11-01,Agile,70
+1003,2023-02-01,SAS,44
+1004,2022-04-01,SAS,104
+1005,2022-05-01,Integrating data,9
+1006,2020-04-01,SAS,63
+1007,2022-03-01,SAS,87
+1008,2022-07-01,SAS,79
+1009,2021-01-01,Data Science,20
+1010,2020-01-01,Data Science,22
+1011,2021-08-01,Data Science,44
+1012,2020-08-01,Data Science,33
+1013,2019-01-01,Technical requirements,212
+1014,2022-12-01,Technical requirements,249
+1015,2021-05-01,Technical requirements,268
+1016,2021-10-01,Programming languages,59
+1017,2021-11-01,Programming languages,59
+1018,2019-04-01,Oracle Business Intelligence,2
+1019,2022-09-01,Product owner,4
+1020,2023-01-01,Advanced analytics,16
+1021,2020-02-01,Product owner,6
+1022,2022-08-01,Oracle Business Intelligence,1
+1023,2019-03-01,Advanced analytics,2
+1024,2020-01-01,Advanced analytics,6
+1025,2023-01-01,Power BI,46
+1026,2020-05-01,Advanced analytics,4
+1027,2021-04-01,Power BI,25
+1028,2020-05-01,Jira,8
+1029,2021-08-01,Power BI,37
+1030,2021-05-01,Automation requirements,13
+1031,2022-08-01,Power BI,57
+1032,2022-10-01,Artificial Intelligence,51
+1033,2020-08-01,Tableau,32
+1034,2022-03-01,Esri,10
+1035,2022-04-01,Data modeling,25
+1036,2022-08-01,Artificial Intelligence,71
+1037,2022-04-01,Tableau,32
+1038,2022-04-01,Esri,7
+1039,2020-05-01,Artificial Intelligence,21
+1040,2022-08-01,Stata,16
+1041,2020-02-01,Tableau,22
+1042,2020-05-01,Tableau,14
+1043,2021-08-01,Tableau,41
+1044,2019-06-01,SPSS,22
+1045,2022-03-01,Data visualization,48
+1046,2022-04-01,Machine Learning,21
+1047,2020-05-01,Data reports,44
+1048,2020-01-01,Data reports,62
+1049,2020-01-01,Qualitative analysis,53
+1050,2021-08-01,Application development,59
+1051,2020-02-01,Data reports,48
+1052,2019-04-01,Application development,44
+1053,2021-11-01,Metadata,46
+1054,2022-08-01,Data reports,86
+1055,2021-06-01,Application development,38
+1056,2019-03-01,Data reports,64
+1057,2019-08-01,Data reports,50
+1058,2020-11-01,Application development,34
+1059,2022-04-01,ETL,12
+1060,2021-03-01,Quantitative analysis,99
+1061,2019-07-01,Quantitative analysis,96
+1062,2019-08-01,Quantitative analysis,92
+1063,2022-04-01,Python,89
+1064,2019-02-01,Business intelligence,37
+1065,2019-04-01,Business intelligence,38
+1066,2022-05-01,Business intelligence,63
+1067,2023-01-01,Business intelligence,64
+1068,2019-03-01,Data requirements,42
+1069,2022-03-01,ARCGIS,29
+1070,2020-02-01,Data requirements,35
+1071,2022-04-01,ARCGIS,28
+1072,2019-09-01,Data requirements,35
+1073,2020-07-01,Data requirements,59
+1074,2022-08-01,API,29
+1075,2022-02-01,API,16
+1076,2021-07-01,Machine Learning,50
+1077,2020-02-01,Agile,58
+1078,2020-05-01,Machine Learning,28
+1079,2021-12-01,Agile,73
+1080,2019-10-01,SAS,80
+1081,2021-03-01,Agile,97
+1082,2022-08-01,SAS,109
+1083,2019-03-01,Agile,64
+1084,2020-05-01,SAS,54
+1085,2020-10-01,Agile,71
+1086,2022-08-01,Data Science,106
+1087,2020-05-01,Data Science,21
+1088,2020-11-01,Programming languages,55
+1089,2022-04-01,Programming languages,109
+1090,2019-05-01,Programming languages,63
+1091,2022-08-01,Programming languages,111
+1092,2019-05-01,Python,40
+1093,2021-06-01,Data modeling,34
+1094,2019-06-01,Digital analytics,1
+1095,2020-03-01,Digital analytics,4
+1096,2021-05-01,Data policies,4
+1097,2022-08-01,Product owner,9
+1098,2020-11-01,Oracle Business Intelligence,4
+1099,2023-01-01,Flare,7
+1100,2020-01-01,Esri,12
+1101,2021-07-01,Power BI,28
+1102,2022-12-01,Power BI,37
+1103,2019-02-01,SPSS,11
+1104,2019-06-01,Artificial Intelligence,10
+1105,2021-03-01,Data standards,17
+1106,2019-03-01,Artificial Intelligence,10
+1107,2021-10-01,Data standards,24
+1108,2022-02-01,Stata,17
+1109,2020-10-01,Stata,16
+1110,2021-06-01,Artificial Intelligence,38
+1111,2020-10-01,Data standards,14
+1112,2020-11-01,Tableau,24
+1113,2021-02-01,Tableau,27
+1114,2022-12-01,Tableau,38
+1115,2021-11-01,Microstrategy,3
+1116,2023-02-01,Data visualization,29
+1117,2020-12-01,ARCGIS,25
+1118,2020-10-01,ARCGIS,20
+1119,2019-04-01,Machine Learning,14
+1120,2019-06-01,Machine Learning,16
+1121,2019-10-01,Qualitative analysis,55
+1122,2020-12-01,Qualitative analysis,31
+1123,2019-03-01,Machine Learning,21
+1124,2022-11-01,Qualitative analysis,49
+1125,2023-02-01,Machine Learning,31
+1126,2020-06-01,Python,44
+1127,2023-02-01,Business intelligence,39
+1128,2020-03-01,Python,51
+1129,2021-05-01,Metadata,42
+1130,2019-08-01,Application development,32
+1131,2021-04-01,Data reports,48
+1132,2019-07-01,Metadata,36
+1133,2021-02-01,Business intelligence,40
+1134,2021-05-01,Python,73
+1135,2021-12-01,Application development,36
+1136,2021-01-01,Data reports,69
+1137,2022-01-01,Business intelligence,62
+1138,2022-06-01,Application development,48
+1139,2020-07-01,Data reports,47
+1140,2022-12-01,Business intelligence,48
+1141,2019-04-01,Programming languages,62
+1142,2022-01-01,Programming languages,62
+1143,2021-07-01,Programming languages,56
+1144,2022-12-01,Programming languages,78
+1145,2019-02-01,SAS,63
+1146,2023-02-01,Programming languages,55
+1147,2019-11-01,Quantitative analysis,59
+1148,2019-07-01,SAS,78
+1149,2023-02-01,Quantitative analysis,79
+1150,2022-12-01,SAS,76
+1151,2021-12-01,Quantitative analysis,100
+1152,2022-06-01,Data modeling,16
+1153,2021-07-01,Quantitative analysis,100
+1154,2022-04-01,Data requirements,64
+1155,2022-09-01,Application software,107
+1156,2019-03-01,Data Engineering,3
+1157,2021-11-01,Data Engineering,4
+1158,2022-01-01,Agile,93
+1159,2019-11-01,Agile,47
+1160,2019-04-01,Data Science,10
+1161,2019-06-01,Data Science,9
+1162,2019-03-01,Data Science,20
+1163,2019-05-01,Oracle Business Intelligence,5
+1164,2019-02-01,Jira,4
+1165,2021-02-01,Advanced analytics,3
+1166,2021-08-01,API,20
+1167,2019-11-01,Flare,9
+1168,2022-01-01,Advanced analytics,15
+1169,2021-04-01,Esri,7
+1170,2022-07-01,Data policies,2
+1171,2022-02-01,Power BI,19
+1172,2022-03-01,SPSS,22
+1173,2020-05-01,SPSS,17
+1174,2020-12-01,SPSS,12
+1175,2019-02-01,Data standards,9
+1176,2020-09-01,Artificial Intelligence,40
+1177,2019-12-01,Data standards,24
+1178,2022-07-01,Artificial Intelligence,45
+1179,2019-01-01,Data standards,16
+1180,2021-05-01,Tableau,45
+1181,2020-07-01,Data standards,25
+1182,2020-01-01,Tableau,24
+1183,2021-05-01,Data visualization,38
+1184,2020-12-01,Tableau,29
+1185,2019-07-01,Microstrategy,4
+1186,2020-12-01,Data visualization,34
+1187,2022-02-01,Tableau,40
+1188,2019-06-01,ARCGIS,21
+1189,2020-06-01,Tableau,30
+1190,2021-05-01,ARCGIS,30
+1191,2022-08-01,Tableau,61
+1192,2023-01-01,ARCGIS,34
+1193,2021-03-01,Qualitative analysis,41
+1194,2021-05-01,Machine Learning,33
+1195,2019-08-01,Machine Learning,18
+1196,2019-06-01,Python,42
+1197,2020-09-01,Machine Learning,51
+1198,2022-08-01,Metadata,40
+1199,2020-09-01,Python,44
+1200,2022-07-01,Machine Learning,57
+1201,2020-03-01,Business intelligence,35
+1202,2019-11-01,Application development,57
+1203,2019-09-01,Data reports,55
+1204,2021-08-01,Python,65
+1205,2019-09-01,Business intelligence,29
+1206,2020-01-01,Python,36
+1207,2021-05-01,Business intelligence,43
+1208,2020-02-01,Business intelligence,28
+1209,2019-07-01,Business intelligence,43
+1210,2019-05-01,Business intelligence,30
+1211,2019-02-01,Programming languages,42
+1212,2021-10-01,Business intelligence,49
+1213,2020-02-01,Programming languages,50
+1214,2020-12-01,Quantitative analysis,71
+1215,2019-05-01,Quantitative analysis,84
+1216,2020-06-01,Data modeling,19
+1217,2019-08-01,Data requirements,55
+1218,2019-11-01,Data requirements,47
+1219,2020-04-01,Application software,90
+1220,2019-04-01,Data requirements,45
+1221,2020-09-01,Application software,68
+1222,2020-05-01,Agile,77
+1223,2019-05-01,Integrating data,10
+1224,2022-07-01,Integrating data,9
+1225,2020-11-01,Integrating data,5
+1226,2021-05-01,Data Science,32
+1227,2022-11-01,Data Science,78
+1228,2020-10-01,Job scheduling,3
+1229,2023-01-01,Product owner,5
+1230,2020-08-01,Software developer,6
+1231,2020-12-01,Jira,5
+1232,2019-07-01,API,8
+1233,2022-08-01,Flare,10
+1234,2023-01-01,Esri,8
+1235,2020-01-01,API,11
+1236,2022-07-01,Flare,9
+1237,2022-06-01,Esri,11
+1238,2019-02-01,Stata,11
+1239,2019-07-01,SPSS,31
+1240,2020-08-01,SPSS,13
+1241,2019-01-01,Stata,15
+1242,2022-09-01,Artificial Intelligence,38
+1243,2019-07-01,Stata,25
+1244,2020-04-01,SPSS,14
+1245,2019-07-01,Artificial Intelligence,16
+1246,2019-05-01,Data standards,16
+1247,2021-10-01,Artificial Intelligence,26
+1248,2019-01-01,Data visualization,13
+1249,2019-12-01,Data visualization,25
+1250,2022-06-01,Tableau,38
+1251,2022-08-01,Data visualization,73
+1252,2021-10-01,Tableau,43
+1253,2020-01-01,ARCGIS,29
+1254,2021-02-01,Data visualization,37
+1255,2022-07-01,Data visualization,74
+1256,2021-06-01,Qualitative analysis,34
+1257,2019-07-01,Qualitative analysis,44
+1258,2021-08-01,Metadata,51
+1259,2021-03-01,Data reports,65
+1260,2019-05-01,Machine Learning,16
+1261,2021-01-01,Application development,31
+1262,2021-10-01,Python,65
+1263,2019-12-01,Business intelligence,38
+1264,2022-11-01,SAS,92
+1265,2019-01-01,Programming languages,42
+1266,2019-01-01,SAS,45
+1267,2020-12-01,Programming languages,63
+1268,2019-12-01,Quantitative analysis,62
+1269,2020-05-01,Data modeling,18
+1270,2019-02-01,Data modeling,6
+1271,2020-06-01,Data requirements,50
+1272,2019-02-01,Data requirements,37
+1273,2022-06-01,SPSS,16
+1274,2021-04-01,Application software,106
+1275,2020-07-01,Application software,63
+1276,2022-01-01,Data reports,81
+1277,2022-04-01,Data reports,83
+1278,2020-09-01,Data Science,24
+1279,2020-12-01,Data Science,21
+1280,2019-11-01,Data Science,22
+1281,2020-08-01,Google Analytics,2
+1282,2022-05-01,Job scheduling,2
+1283,2021-05-01,Product owner,8
+1284,2019-11-01,Jira,4
+1285,2022-06-01,Automation requirements,13
+1286,2020-05-01,Flare,6
+1287,2020-02-01,Esri,12
+1288,2020-12-01,ETL,10
+1289,2019-10-01,Power BI,3
+1290,2021-11-01,ETL,11
+1291,2020-08-01,Power BI,12
+1292,2022-01-01,ETL,11
+1293,2020-03-01,ETL,13
+1294,2022-11-01,Data standards,25
+1295,2020-06-01,Artificial Intelligence,33
+1296,2022-07-01,Data standards,29
+1297,2019-10-01,Data standards,18
+1298,2021-09-01,Microstrategy,3
+1299,2020-12-01,Data standards,9
+1300,2019-11-01,Microstrategy,6
+1301,2019-10-01,Tableau,14
+1302,2021-09-01,Tableau,39
+1303,2020-02-01,Data visualization,21
+1304,2021-01-01,Data visualization,27
+1305,2020-03-01,Tableau,38
+1306,2020-04-01,ARCGIS,20
+1307,2020-06-01,Qualitative analysis,42
+1308,2019-02-01,ARCGIS,12
+1309,2019-01-01,Qualitative analysis,57
+1310,2021-12-01,ARCGIS,33
+1311,2020-05-01,Metadata,30
+1312,2019-12-01,Python,31
+1313,2019-12-01,Metadata,32
+1314,2020-02-01,Python,39
+1315,2020-02-01,Machine Learning,26
+1316,2020-02-01,Metadata,50
+1317,2022-01-01,Python,74
+1318,2021-09-01,Business intelligence,52
+1319,2021-03-01,Business intelligence,58
+1320,2021-10-01,SAS,85
+1321,2021-06-01,Business intelligence,52
+1322,2020-01-01,SAS,41
+1323,2019-05-01,Application development,43
+1324,2022-03-01,Application development,56
+1325,2020-11-01,Data modeling,22
+1326,2021-11-01,Data modeling,17
+1327,2019-05-01,Data modeling,21
+1328,2019-05-01,Artificial Intelligence,11
+1329,2022-04-01,SPSS,20
+1330,2019-10-01,SPSS,20
+1331,2022-11-01,SPSS,23
+1332,2021-12-01,Application software,92
+1333,2022-07-01,Data requirements,60
+1334,2020-08-01,Data Engineering,6
+1335,2022-09-01,Agile,125
+1336,2020-06-01,Data Science,28
+1337,2020-02-01,Data Science,23
+1338,2023-01-01,Application Programming Interface,5
+1339,2022-08-01,Data procedures,2
+1340,2020-02-01,Advanced analytics,10
+1341,2022-03-01,Automation requirements,22
+1342,2020-09-01,Flare,5
+1343,2019-11-01,Automation requirements,10
+1344,2019-05-01,Jira,4
+1345,2019-06-01,Flare,5
+1346,2021-08-01,Jira,9
+1347,2022-07-01,Power BI,47
+1348,2022-09-01,Power BI,42
+1349,2022-07-01,ETL,16
+1350,2021-04-01,Stata,17
+1351,2019-05-01,Stata,11
+1352,2020-11-01,Data visualization,24
+1353,2020-11-01,Qualitative analysis,39
+1354,2022-06-01,Qualitative analysis,61
+1355,2022-07-01,ARCGIS,19
+1356,2023-02-01,Qualitative analysis,18
+1357,2022-07-01,Metadata,47
+1358,2022-09-01,Python,107
+1359,2022-10-01,Metadata,23
+1360,2022-02-01,Machine Learning,56
+1361,2022-12-01,Metadata,33
+1362,2022-09-01,Machine Learning,57
+1363,2019-09-01,Programming languages,52
+1364,2020-04-01,Business intelligence,31
+1365,2022-09-01,Programming languages,79
+1366,2019-07-01,Technical requirements,229
+1367,2022-11-01,Application development,59
+1368,2021-03-01,Data modeling,21
+1369,2020-02-01,Artificial Intelligence,18
+1370,2019-05-01,SPSS,21
+1371,2021-01-01,Data Engineering,2
+1372,2022-12-01,Data reports,83
+1373,2020-03-01,Data reports,52
+1374,2022-10-01,Data reports,76
+1375,2019-05-01,Agile,59
+1376,2020-06-01,Google Analytics,3
+1377,2020-02-01,Digital analytics,1
+1378,2021-04-01,API,8
+1379,2021-07-01,Advanced analytics,6
+1380,2022-09-01,Esri,10
+1381,2022-03-01,Flare,4
+1382,2020-10-01,Power BI,15
+1383,2023-02-01,Jira,6
+1384,2020-05-01,Data standards,18
+1385,2022-09-01,Data standards,32
+1386,2020-10-01,Tableau,29
+1387,2022-01-01,Tableau,46
+1388,2021-08-01,Data visualization,43
+1389,2022-03-01,Tableau,37
+1390,2022-11-01,Data visualization,68
+1391,2022-01-01,Microstrategy,4
+1392,2022-11-01,Tableau,41
+1393,2019-11-01,ARCGIS,16
+1394,2020-07-01,Qualitative analysis,39
+1395,2019-10-01,ARCGIS,22
+1396,2020-06-01,ARCGIS,16
+1397,2019-02-01,Qualitative analysis,31
+1398,2021-07-01,ARCGIS,24
+1399,2020-12-01,Metadata,34
+1400,2022-12-01,Machine Learning,50
+1401,2020-05-01,Business intelligence,49
+1402,2021-09-01,Machine Learning,44
+1403,2019-06-01,Business intelligence,38
+1404,2022-11-01,Machine Learning,51
+1405,2019-09-01,Application development,46
+1406,2019-06-01,Data modeling,17
+1407,2021-07-01,Data modeling,14
+1408,2021-07-01,Artificial Intelligence,34
+1409,2021-09-01,Artificial Intelligence,46
+1410,2019-11-01,SPSS,14
+1411,2020-01-01,Application software,99
+1412,2019-09-01,Application software,107
+1413,2020-05-01,Data requirements,38
+1414,2019-01-01,Data reports,41
+1415,2022-07-01,Data reports,78
+1416,2020-12-01,Integrating data,11
+1417,2022-11-01,Application Programming Interface,4
+1418,2020-03-01,Oracle Business Intelligence,4
+1419,2020-08-01,Product owner,5
+1420,2021-09-01,Product owner,6
+1421,2022-08-01,Advanced analytics,18
+1422,2022-11-01,API,13
+1423,2023-02-01,API,8
+1424,2020-04-01,Esri,7
+1425,2020-08-01,API,9
+1426,2021-11-01,Power BI,24
+1427,2022-04-01,Stata,13
+1428,2022-11-01,ETL,11
+1429,2019-02-01,Data visualization,15
+1430,2019-05-01,Tableau,18
+1431,2021-11-01,Qualitative analysis,23
+1432,2020-04-01,Python,49
+1433,2021-01-01,ARCGIS,11
+1434,2019-07-01,Machine Learning,19
+1435,2020-09-01,Programming languages,59
+1436,2019-11-01,Machine Learning,16
+1437,2022-05-01,Application development,65
+1438,2020-08-01,Data modeling,21
+1439,2023-02-01,SPSS,9
+1440,2022-11-01,Artificial Intelligence,42
+1441,2022-10-01,SPSS,19
+1442,2023-01-01,Artificial Intelligence,58
+1443,2019-12-01,Data requirements,36
+1444,2022-01-01,Data requirements,59
+1445,2021-05-01,Data requirements,58
+1446,2023-02-01,Data Engineering,4
+1447,2020-07-01,Agile,78
+1448,2019-09-01,Agile,62
+1449,2019-10-01,Flare,4
+1450,2020-06-01,Jira,5
+1451,2020-03-01,Stata,14
+1452,2019-08-01,Jira,6
+1453,2021-10-01,Stata,16
+1454,2020-06-01,Data standards,17
+1455,2020-03-01,Data visualization,22
+1456,2023-01-01,Microstrategy,4
+1457,2022-09-01,Tableau,58
+1458,2019-04-01,Microstrategy,6
+1459,2020-04-01,Qualitative analysis,35
+1460,2022-09-01,SAS,79
+1461,2022-10-01,Business intelligence,69
+1462,2020-01-01,Application development,26
+1463,2021-09-01,Data modeling,13
+1464,2022-04-01,Artificial Intelligence,29
+1465,2021-10-01,Data visualization,50
+1466,2020-10-01,Data requirements,30
+1467,2021-03-01,Data requirements,55
+1468,2020-12-01,Data requirements,40
+1469,2019-04-01,Data reports,49
+1470,2023-02-01,Data reports,47
+1471,2022-06-01,Data Science,66
+1472,2020-11-01,Data Science,24
+1473,2022-04-01,Data Science,44
+1474,2019-12-01,Data Science,15
+1475,2022-07-01,Google Analytics,5
+1476,2022-07-01,Digital analytics,6
+1477,2022-02-01,R Studio,1
+1478,2019-03-01,IBM Cognos,6
+1479,2019-08-01,Oracle Business Intelligence,13
+1480,2021-12-01,Software developer,8
+1481,2021-06-01,Oracle Business Intelligence,7
+1482,2022-02-01,Product owner,5
+1483,2023-01-01,Automation requirements,18
+1484,2022-01-01,API,11
+1485,2022-07-01,Esri,8
+1486,2020-07-01,Automation requirements,13
+1487,2021-08-01,Automation requirements,16
+1488,2020-11-01,Power BI,6
+1489,2022-03-01,Power BI,41
+1490,2022-09-01,Stata,20
+1491,2021-03-01,ETL,11
+1492,2021-07-01,Jira,12
+1493,2022-07-01,Jira,7
+1494,2020-03-01,Data standards,8
+1495,2023-01-01,Tableau,60
+1496,2019-01-01,Python,25
+1497,2020-03-01,Metadata,46
+1498,2022-06-01,Machine Learning,52
+1499,2021-11-01,Application development,31
+1500,2022-02-01,Data modeling,19
+1501,2022-09-01,SPSS,23
+1502,2019-11-01,Artificial Intelligence,16
+1503,2021-11-01,SPSS,11
+1504,2023-01-01,Data visualization,56
+1505,2020-04-01,Artificial Intelligence,22
+1506,2022-04-01,Data visualization,32
+1507,2022-05-01,Artificial Intelligence,40
+1508,2021-09-01,Application software,90
+1509,2021-01-01,Data requirements,35
+1510,2022-06-01,Data Engineering,9
+1511,2021-03-01,Integrating data,9
+1512,2022-01-01,Integrating data,12
+1513,2021-08-01,IBM Cognos,2
+1514,2019-06-01,Advanced analytics,3
+1515,2022-05-01,Esri,8
+1516,2021-02-01,Automation requirements,3
+1517,2019-03-01,Flare,5
+1518,2020-10-01,Automation requirements,13
+1519,2020-02-01,Power BI,5
+1520,2021-10-01,Power BI,36
+1521,2020-09-01,Stata,18
+1522,2021-05-01,Data standards,22
+1523,2019-04-01,Data standards,23
+1524,2020-09-01,Tableau,24
+1525,2022-08-01,Qliksense,2
+1526,2020-08-01,ARCGIS,7
+1527,2020-09-01,Qualitative analysis,35
+1528,2019-04-01,Metadata,21
+1529,2021-12-01,Data modeling,9
+1530,2019-04-01,Data modeling,17
+1531,2020-09-01,SPSS,19
+1532,2021-12-01,Artificial Intelligence,29
+1533,2019-08-01,Data visualization,11
+1534,2020-01-01,Agile,55
+1535,2022-10-01,Integrating data,11
+1536,2022-06-01,Integrating data,9
+1537,2021-12-01,Data Science,28
+1538,2022-12-01,descriptive and inferential statistics,1
+1539,2020-03-01,Software developer,4
+1540,2021-05-01,Oracle Business Intelligence,6
+1541,2020-05-01,Product owner,7
+1542,2022-03-01,API,17
+1543,2020-03-01,Flare,8
+1544,2021-03-01,Power BI,18
+1545,2021-04-01,Jira,8
+1546,2020-08-01,Data standards,17
+1547,2019-08-01,Microstrategy,6
+1548,2019-10-01,Python,30
+1549,2020-11-01,ARCGIS,21
+1550,2019-05-01,Qualitative analysis,47
+1551,2021-02-01,Qualitative analysis,42
+1552,2019-08-01,SPSS,20
+1553,2020-04-01,Data requirements,32
+1554,2022-12-01,Data Engineering,8
+1555,2022-02-01,Data Engineering,13
+1556,2019-08-01,Integrating data,7
+1557,2022-02-01,Artificial Intelligence,39
+1558,2020-10-01,Esri,7
+1559,2022-06-01,API,10
+1560,2021-07-01,Esri,15
+1561,2021-09-01,API,12
+1562,2021-10-01,Automation requirements,4
+1563,2021-09-01,Flare,7
+1564,2022-01-01,Esri,12
+1565,2019-03-01,Automation requirements,12
+1566,2021-07-01,Automation requirements,13
+1567,2021-09-01,Power BI,33
+1568,2021-09-01,ETL,4
+1569,2022-08-01,ETL,10
+1570,2022-08-01,Data standards,30
+1571,2023-01-01,Data standards,35
+1572,2023-02-01,Tableau,22
+1573,2020-09-01,Data standards,19
+1574,2022-01-01,ARCGIS,24
+1575,2019-06-01,Qualitative analysis,58
+1576,2020-07-01,Business intelligence,31
+1577,2020-09-01,Metadata,33
+1578,2019-06-01,Application development,33
+1579,2021-08-01,Data modeling,21
+1580,2020-07-01,Data modeling,14
+1581,2022-08-01,Data modeling,33
+1582,2019-03-01,SPSS,9
+1583,2020-06-01,Data visualization,36
+1584,2022-01-01,Data visualization,42
+1585,2020-08-01,Data requirements,47
+1586,2019-10-01,Data requirements,45
+1587,2022-12-01,Integrating data,5
+1588,2019-09-01,Integrating data,9
+1589,2020-07-01,Artificial Intelligence,27
+1590,2019-11-01,Application Programming Interface,3
+1591,2022-12-01,Google Analytics,19
+1592,2022-03-01,Product owner,2
+1593,2019-12-01,Advanced analytics,6
+1594,2021-03-01,Advanced analytics,6
+1595,2020-05-01,API,12
+1596,2020-12-01,Flare,8
+1597,2020-01-01,Data policies,3
+1598,2020-03-01,Jira,8
+1599,2020-12-01,Business intelligence,38
+1600,2019-11-01,Metadata,23
+1601,2020-03-01,Machine Learning,24
+1602,2022-03-01,Data modeling,16
+1603,2020-01-01,Data modeling,13
+1604,2019-07-01,Data visualization,29
+1605,2021-02-01,Python,40
+1606,2020-12-01,Qliksense,2
+1607,2019-02-01,Integrating data,6
+1608,2020-03-01,Data Science,15
+1609,2021-09-01,Oracle Business Intelligence,4
+1610,2019-09-01,API,14
+1611,2021-11-01,API,9
+1612,2019-07-01,Automation requirements,14
+1613,2020-06-01,Data policies,2
+1614,2022-06-01,Stata,16
+1615,2022-10-01,ETL,5
+1616,2020-08-01,ETL,9
+1617,2021-01-01,Data standards,5
+1618,2022-11-01,ARCGIS,27
+1619,2023-02-01,ARCGIS,20
+1620,2022-01-01,Metadata,40
+1621,2019-03-01,Metadata,30
+1622,2019-04-01,Data visualization,13
+1623,2021-08-01,Data requirements,61
+1624,2019-02-01,Data reports,44
+1625,2021-07-01,Data Engineering,6
+1626,2020-02-01,Data Engineering,6
+1627,2019-10-01,Integrating data,6
+1628,2022-09-01,Integrating data,10
+1629,2022-02-01,Data Science,54
+1630,2019-12-01,Machine Learning,14
+1631,2020-07-01,Job scheduling,7
+1632,2020-07-01,Google Analytics,2
+1633,2022-10-01,Google Analytics,9
+1634,2022-04-01,Software developer,16
+1635,2021-04-01,Oracle Business Intelligence,3
+1636,2022-07-01,Oracle Business Intelligence,5
+1637,2019-12-01,API,3
+1638,2021-11-01,Automation requirements,16
+1639,2019-04-01,Automation requirements,13
+1640,2023-02-01,Power BI,16
+1641,2022-01-01,Power BI,37
+1642,2021-02-01,Power BI,21
+1643,2021-08-01,Stata,14
+1644,2020-06-01,Stata,15
+1645,2019-12-01,ETL,3
+1646,2019-04-01,Tableau,17
+1647,2021-07-01,Qualitative analysis,46
+1648,2023-02-01,Metadata,25
+1649,2021-01-01,Metadata,23
+1650,2022-02-01,SPSS,23
+1651,2021-04-01,Integrating data,5
+1652,2022-09-01,Data modeling,23
+1653,2020-05-01,Oracle Business Intelligence,3
+1654,2021-01-01,Advanced analytics,2
+1655,2021-05-01,Advanced analytics,7
+1656,2020-03-01,Advanced analytics,5
+1657,2019-11-01,Advanced analytics,3
+1658,2019-08-01,Esri,9
+1659,2019-08-01,API,11
+1660,2020-04-01,Automation requirements,9
+1661,2022-02-01,Jira,5
+1662,2022-05-01,Data standards,18
+1663,2020-04-01,Quantitative analysis,76
+1664,2019-08-01,ARCGIS,25
+1665,2021-09-01,Data reports,66
+1666,2021-05-01,Artificial Intelligence,36
+1667,2023-01-01,Software developer,5
+1668,2022-06-01,Software developer,7
+1669,2022-06-01,Product owner,11
+1670,2021-12-01,Oracle Business Intelligence,2
+1671,2019-02-01,Advanced analytics,4
+1672,2020-04-01,Flare,10
+1673,2020-01-01,Jira,7
+1674,2022-09-01,ETL,12
+1675,2022-10-01,Application development,44
+1676,2021-04-01,SPSS,12
+1677,2023-02-01,Python,48
+1678,2022-08-01,Integrating data,13
+1679,2021-05-01,Software developer,10
+1680,2022-02-01,Advanced analytics,11
+1681,2022-04-01,API,22
+1682,2020-02-01,Flare,5
+1683,2022-08-01,Automation requirements,6
+1684,2021-05-01,Power BI,29
+1685,2019-06-01,Stata,15
+1686,2020-10-01,ETL,8
+1687,2021-09-01,Data standards,19
+1688,2019-08-01,Data standards,21
+1689,2021-05-01,Microstrategy,7
+1690,2019-09-01,Qualitative analysis,62
+1691,2021-08-01,ARCGIS,14
+1692,2021-07-01,SPSS,15
+1693,2021-05-01,Data modeling,23
+1694,2021-01-01,Product owner,5
+1695,2021-12-01,Product owner,6
+1696,2022-04-01,Product owner,14
+1697,2020-06-01,Esri,9
+1698,2020-10-01,Data policies,4
+1699,2022-11-01,Data policies,11
+1700,2020-06-01,Power BI,15
+1701,2022-11-01,Stata,33
+1702,2020-10-01,Microstrategy,2
+1703,2020-09-01,Application development,41
+1704,2022-01-01,SPSS,23
+1705,2019-10-01,Data visualization,25
+1706,2022-01-01,Artificial Intelligence,38
+1707,2019-02-01,Artificial Intelligence,8
+1708,2022-01-01,Machine Learning,34
+1709,2019-11-01,Data modeling,17
+1710,2021-02-01,Google Analytics,2
+1711,2021-11-01,Software developer,7
+1712,2019-09-01,Advanced analytics,6
+1713,2020-07-01,Data policies,2
+1714,2020-07-01,Power BI,7
+1715,2022-05-01,Stata,26
+1716,2021-02-01,Jira,6
+1717,2020-05-01,ETL,5
+1718,2022-06-01,Jira,10
+1719,2021-06-01,ETL,8
+1720,2019-07-01,Data standards,16
+1721,2021-01-01,Microstrategy,2
+1722,2020-01-01,Business intelligence,39
+1723,2022-09-01,ARCGIS,21
+1724,2021-05-01,Application development,49
+1725,2022-07-01,SPSS,31
+1726,2020-11-01,SPSS,20
+1727,2022-05-01,SPSS,19
+1728,2020-03-01,Data Engineering,3
+1729,2021-07-01,Integrating data,8
+1730,2020-03-01,Artificial Intelligence,15
+1731,2022-05-01,Product owner,10
+1732,2021-05-01,Flare,4
+1733,2019-07-01,Power BI,5
+1734,2021-01-01,Stata,14
+1735,2021-06-01,Stata,14
+1736,2019-07-01,Tableau,20
+1737,2023-01-01,ETL,10
+1738,2019-11-01,SAS,52
+1739,2021-12-01,Qualitative analysis,45
+1740,2020-07-01,ARCGIS,23
+1741,2019-07-01,Data requirements,37
+1742,2019-11-01,Programming languages,36
+1743,2021-03-01,Data Engineering,3
+1744,2019-07-01,Data Science,15
+1745,2020-02-01,Data modeling,25
+1746,2020-03-01,Data modeling,15
+1747,2019-09-01,Esri,12
+1748,2022-05-01,Automation requirements,14
+1749,2022-01-01,Flare,3
+1750,2021-06-01,Power BI,21
+1751,2021-07-01,Stata,8
+1752,2019-12-01,Jira,2
+1753,2020-11-01,ETL,13
+1754,2023-01-01,SPSS,20
+1755,2019-02-01,Python,22
+1756,2019-01-01,SPSS,9
+1757,2023-01-01,Integrating data,13
+1758,2019-04-01,Digital analytics,2
+1759,2022-02-01,Software developer,14
+1760,2021-01-01,Tableau,24
+1761,2022-12-01,ETL,10
+1762,2020-03-01,ARCGIS,12
+1763,2019-03-01,Data visualization,11
+1764,2019-07-01,Integrating data,5
+1765,2019-04-01,Artificial Intelligence,16
+1766,2019-02-01,Machine Learning,10
+1767,2022-03-01,Software developer,5
+1768,2022-10-01,Oracle Business Intelligence,6
+1769,2021-12-01,Automation requirements,10
+1770,2022-06-01,Flare,5
+1771,2022-11-01,Flare,5
+1772,2019-10-01,Stata,12
+1773,2020-11-01,Metadata,23
+1774,2022-05-01,ARCGIS,24
+1775,2019-12-01,ARCGIS,19
+1776,2021-10-01,SPSS,17
+1777,2020-04-01,Data Science,21
+1778,2020-09-01,Job scheduling,1
+1779,2019-02-01,Digital analytics,5
+1780,2021-08-01,Software developer,9
+1781,2019-10-01,Esri,6
+1782,2020-07-01,Advanced analytics,2
+1783,2021-04-01,Flare,10
+1784,2022-07-01,Stata,20
+1785,2019-04-01,Stata,9
+1786,2020-09-01,ARCGIS,18
+1787,2019-10-01,Data Engineering,5
+1788,2022-11-01,Data Engineering,10
+1789,2023-01-01,Data Engineering,11
+1790,2022-03-01,Integrating data,12
+1791,2022-12-01,API,13
+1792,2022-08-01,Jira,2
+1793,2019-04-01,Google Analytics,3
+1794,2022-03-01,Oracle Business Intelligence,8
+1795,2022-12-01,Product owner,3
+1796,2020-08-01,Oracle Business Intelligence,1
+1797,2020-04-01,IBM Cognos,4
+1798,2020-09-01,IBM Cognos,2
+1799,2023-02-01,Esri,7
+1800,2019-11-01,API,5
+1801,2020-01-01,Power BI,9
+1802,2019-11-01,Tableau,15
+1803,2020-07-01,ETL,10
+1804,2019-11-01,ETL,4
+1805,2022-05-01,ETL,11
+1806,2019-11-01,Python,24
+1807,2020-09-01,Data requirements,42
+1808,2023-02-01,Artificial Intelligence,22
+1809,2023-01-01,RGIS,2
+1810,2019-12-01,Job scheduling,1
+1811,2022-08-01,Job scheduling,2
+1812,2023-01-01,Google Analytics,5
+1813,2020-03-01,Google Analytics,2
+1814,2021-05-01,Esri,13
+1815,2021-07-01,API,22
+1816,2019-05-01,Automation requirements,14
+1817,2023-01-01,Stata,24
+1818,2022-12-01,Data standards,22
+1819,2021-05-01,ETL,7
+1820,2023-01-01,descriptive and inferential statistics,2
+1821,2020-07-01,Metadata,38
+1822,2022-07-01,Qliksense,1
+1823,2019-06-01,Data visualization,19
+1824,2019-05-01,Esri,6
+1825,2021-12-01,API,14
+1826,2019-07-01,Data policies,3
+1827,2022-04-01,Business intelligence,54
+1828,2021-08-01,ETL,14
+1829,2021-11-01,Integrating data,8
+1830,2021-12-01,Data Engineering,8
+1831,2019-09-01,Data modeling,9
+1832,2021-08-01,Digital analytics,3
+1833,2020-01-01,Product owner,10
+1834,2022-05-01,Oracle Business Intelligence,2
+1835,2022-08-01,SPSS,27
+1836,2020-01-01,Artificial Intelligence,15
+1837,2019-05-01,Data Science,19
+1838,2023-02-01,Digital analytics,3
+1839,2023-02-01,Google Analytics,9
+1840,2022-07-01,Software developer,4
+1841,2021-01-01,Oracle Business Intelligence,5
+1842,2021-03-01,Oracle Business Intelligence,4
+1843,2019-04-01,Power BI,6
+1844,2020-08-01,Jira,9
+1845,2019-04-01,ARCGIS,21
+1846,2019-07-01,ARCGIS,14
+1847,2020-11-01,Data standards,13
+1848,2020-12-01,Data reports,40
+1849,2019-08-01,Data Science,20
+1850,2022-05-01,Data modeling,21
+1851,2020-11-01,Software developer,6
+1852,2019-12-01,Product owner,3
+1853,2022-09-01,Advanced analytics,9
+1854,2022-11-01,Esri,10
+1855,2019-06-01,Esri,7
+1856,2021-09-01,Automation requirements,7
+1857,2019-12-01,Power BI,7
+1858,2020-01-01,Stata,8
+1859,2021-05-01,Stata,11
+1860,2021-01-01,SPSS,11
+1861,2020-01-01,SPSS,20
+1862,2021-05-01,SPSS,11
+1863,2022-05-01,Digital analytics,6
+1864,2019-10-01,Software developer,2
+1865,2022-04-01,Oracle Business Intelligence,3
+1866,2021-07-01,ETL,10
+1867,2021-05-01,Integrating data,4
+1868,2020-08-01,Data visualization,24
+1869,2021-12-01,Google Analytics,2
+1870,2022-03-01,Advanced analytics,8
+1871,2022-10-01,Advanced analytics,13
+1872,2021-03-01,API,10
+1873,2019-08-01,Software developer,2
+1874,2022-10-01,Esri,9
+1875,2022-07-01,Data procedures,2
+1876,2022-10-01,API,12
+1877,2020-08-01,Esri,5
+1878,2019-09-01,Automation requirements,7
+1879,2020-04-01,API,13
+1880,2019-11-01,Data standards,12
+1881,2020-12-01,Artificial Intelligence,21
+1882,2020-12-01,Machine Learning,33
+1883,2022-12-01,Data modeling,13
+1884,2019-11-01,Data visualization,11
+1885,2023-01-01,Job scripting,1
+1886,2023-01-01,Code debugging,3
+1887,2023-01-01,Job scheduling,3
+1888,2022-10-01,Product owner,3
+1889,2022-01-01,Software developer,2
+1890,2023-01-01,"Extract, transfer, load",1
+1891,2019-02-01,Automation requirements,6
+1892,2022-01-01,Stata,19
+1893,2021-11-01,Data standards,14
+1894,2022-09-01,Job scheduling,4
+1895,2021-07-01,Product owner,7
+1896,2020-03-01,Product owner,5
+1897,2021-07-01,Software developer,3
+1898,2020-12-01,Advanced analytics,3
+1899,2020-02-01,Jira,8
+1900,2021-01-01,ETL,10
+1901,2020-12-01,Sagemaker,1
+1902,2019-08-01,Artificial Intelligence,10
+1903,2020-01-01,Software developer,8
+1904,2019-01-01,Advanced analytics,11
+1905,2019-03-01,Esri,9
+1906,2020-11-01,Artificial Intelligence,14
+1907,2022-01-01,Oracle Business Intelligence,4
+1908,2019-03-01,ETL,3
+1909,2020-05-01,Application Programming Interface,3
+1910,2022-09-01,Data Engineering,6
+1911,2022-10-01,Data Engineering,7
+1912,2022-01-01,Data modeling,23
+1913,2021-02-01,API,6
+1914,2020-03-01,Power BI,8
+1915,2021-02-01,ETL,9
+1916,2022-08-01,Google Analytics,6
+1917,2019-05-01,API,7
+1918,2019-08-01,Tableau,21
+1919,2021-10-01,Jira,7
+1920,2019-01-01,Jira,8
+1921,2021-12-01,Microstrategy,3
+1922,2020-06-01,ETL,9
+1923,2021-12-01,ETL,9
+1924,2022-11-01,Integrating data,8
+1925,2020-10-01,Advanced analytics,7
+1926,2020-10-01,API,15
+1927,2022-08-01,Data policies,3
+1928,2022-05-01,Microstrategy,3
+1929,2021-02-01,SPSS,15
+1930,2021-01-01,Automation requirements,8
+1931,2021-03-01,Flare,6
+1932,2020-04-01,Microstrategy,3
+1933,2022-02-01,Microstrategy,5
+1934,2019-11-01,Integrating data,4
+1935,2020-02-01,Integrating data,8
+1936,2022-08-01,Data Engineering,14
+1937,2020-09-01,Data modeling,15
+1938,2020-11-01,API,9
+1939,2019-09-01,Stata,8
+1940,2019-09-01,SPSS,8
+1941,2019-12-01,Artificial Intelligence,11
+1942,2020-09-01,Digital analytics,1
+1943,2020-11-01,Advanced analytics,10
+1944,2019-02-01,API,6
+1945,2019-02-01,Tableau,12
+1946,2022-11-01,Microstrategy,2
+1947,2019-10-01,descriptive and inferential statistics,1
+1948,2019-02-01,Application Programming Interface,2
+1949,2021-02-01,Data standards,14
+1950,2020-04-01,Integrating data,4
+1951,2021-11-01,Google Analytics,2
+1952,2021-02-01,Stata,10
+1953,2021-12-01,Data standards,20
+1954,2021-10-01,Oracle Business Intelligence,7
+1955,2019-01-01,Automation requirements,7
+1956,2019-04-01,Flare,10
+1957,2021-10-01,Job scheduling,1
+1958,2019-12-01,Oracle Business Intelligence,5
+1959,2022-12-01,Esri,6
+1960,2019-04-01,Esri,8
+1961,2020-02-01,Data policies,1
+1962,2019-09-01,Jira,2
+1963,2022-06-01,ETL,5
+1964,2022-06-01,Sagemaker,1
+1965,2020-02-01,Data standards,19
+1966,2019-02-01,Flare,3
+1967,2023-01-01,Data policies,3
+1968,2022-04-01,Jira,13
+1969,2020-10-01,Jira,4
+1970,2021-08-01,Integrating data,9
+1971,2021-02-01,Data Science,24
+1972,2019-07-01,Oracle Business Intelligence,4
+1973,2022-11-01,Advanced analytics,16
+1974,2019-03-01,API,4
+1975,2022-10-01,Digital analytics,5
+1976,2020-04-01,Digital analytics,4
+1977,2019-07-01,Software developer,3
+1978,2021-09-01,Esri,13
+1979,2021-06-01,Automation requirements,13
+1980,2021-06-01,Esri,8
+1981,2022-04-01,Automation requirements,13
+1982,2019-04-01,API,6
+1983,2022-02-01,ETL,16
+1984,2021-02-01,Data modeling,13
+1985,2022-01-01,Product owner,7
+1986,2021-12-01,descriptive and inferential statistics,3
+1987,2022-03-01,ETL,15
+1988,2020-09-01,Data Engineering,6
+1989,2020-09-01,RGIS,1
+1990,2019-07-01,Advanced analytics,5
+1991,2021-10-01,Flare,5
+1992,2020-05-01,ARCGIS,13
+1993,2021-01-01,Data policies,1
+1994,2020-08-01,IBM Cognos,4
+1995,2022-11-01,Product owner,3
+1996,2022-08-01,Software developer,10
+1997,2020-08-01,Advanced analytics,5
+1998,2021-11-01,Data procedures,2
+1999,2022-07-01,Automation requirements,11
+2000,2020-05-01,Automation requirements,13
+2001,2019-03-01,Power BI,3
+2002,2023-02-01,Stata,8
+2003,2022-01-01,Jira,6
+2004,2019-01-01,descriptive and inferential statistics,4
+2005,2021-08-01,Google Analytics,6
+2006,2020-05-01,Esri,3
+2007,2022-09-01,API,17
+2008,2019-09-01,Software developer,4
+2009,2022-07-01,Advanced analytics,6
+2010,2019-08-01,Flare,5
+2011,2021-12-01,Integrating data,8
+2012,2020-06-01,Integrating data,7
+2013,2020-04-01,Data Engineering,2
+2014,2020-07-01,API,3
+2015,2020-01-01,descriptive and inferential statistics,1
+2016,2021-01-01,Job scheduling,3
+2017,2021-06-01,Google Analytics,7
+2018,2022-07-01,API,23
+2019,2022-04-01,Flare,4
+2020,2021-08-01,Flare,5
+2021,2021-11-01,Data policies,2
+2022,2021-05-01,Jira,4
+2023,2020-06-01,Data Engineering,4
+2024,2019-09-01,Artificial Intelligence,16
+2025,2019-01-01,Data Science,11
+2026,2020-12-01,Power BI,5
+2027,2022-04-01,Data standards,16
+2028,2019-10-01,Data modeling,14
+2029,2021-04-01,Advanced analytics,5
+2030,2021-08-01,Esri,5
+2031,2019-10-01,API,10
+2032,2019-12-01,Tableau,25
+2033,2020-04-01,ETL,8
+2034,2023-01-01,R Studio,5
+2035,2019-08-01,Job scheduling,1
+2036,2021-07-01,Flare,3
+2037,2019-04-01,Job scheduling,1
+2038,2021-09-01,Google Analytics,4
+2039,2019-05-01,Google Analytics,2
+2040,2020-06-01,Oracle Business Intelligence,10
+2041,2021-12-01,Flare,6
+2042,2019-12-01,Data policies,4
+2043,2019-10-01,Microstrategy,1
+2044,2021-07-01,Microstrategy,7
+2045,2019-02-01,Data Science,16
+2046,2020-10-01,Product owner,4
+2047,2021-02-01,Esri,4
+2048,2020-12-01,API,9
+2049,2021-07-01,Data policies,3
+2050,2019-09-01,ETL,7
+2051,2021-04-01,Application Programming Interface,3
+2052,2020-01-01,Data Engineering,2
+2053,2020-12-01,Data modeling,8
+2054,2022-04-01,Google Analytics,2
+2055,2020-06-01,Advanced analytics,9
+2056,2022-11-01,R Studio,1
+2057,2021-04-01,Data Engineering,1
+2058,2019-01-01,Esri,7
+2059,2019-06-01,API,6
+2060,2020-11-01,Data policies,3
+2061,2020-07-01,Data Engineering,4
+2062,2020-11-01,Job scheduling,4
+2063,2019-06-01,Automation requirements,14
+2064,2022-01-01,Automation requirements,8
+2065,2020-01-01,Automation requirements,9
+2066,2021-05-01,Application Programming Interface,3
+2067,2019-11-01,Digital analytics,1
+2068,2022-01-01,Google Analytics,7
+2069,2020-09-01,Software developer,2
+2070,2019-11-01,Data Engineering,3
+2071,2021-04-01,Software developer,9
+2072,2021-04-01,Product owner,11
+2073,2020-12-01,Data Engineering,4
+2074,2020-11-01,Stata,7
+2075,2020-05-01,Software developer,7
+2076,2020-04-01,Jira,5
+2077,2020-07-01,Product owner,6
+2078,2020-02-01,Oracle Business Intelligence,2
+2079,2022-08-01,Microstrategy,3
+2080,2021-01-01,Data procedures,1
+2081,2022-02-01,Sagemaker,2
+2082,2022-02-01,Integrating data,5
+2083,2022-08-01,descriptive and inferential statistics,4
+2084,2020-09-01,API,9
+2085,2022-02-01,Flare,3
+2086,2020-09-01,Jira,4
+2087,2019-04-01,ETL,4
+2088,2019-12-01,Data modeling,11
+2089,2021-04-01,Digital analytics,1
+2090,2021-12-01,Advanced analytics,3
+2091,2020-12-01,Esri,2
+2092,2022-10-01,Software developer,3
+2093,2021-01-01,Software developer,3
+2094,2021-01-01,Flare,6
+2095,2020-11-01,Jira,9
+2096,2022-07-01,Product owner,10
+2097,2020-12-01,R Studio,1
+2098,2021-05-01,Data Engineering,5
+2099,2022-04-01,Data Engineering,6
+2100,2022-07-01,Code debugging,2
+2101,2020-05-01,Stata,8
+2102,2022-07-01,Data Engineering,8
+2103,2022-12-01,Advanced analytics,9
+2104,2019-06-01,Power BI,6
+2105,2022-12-01,Automation requirements,13
+2106,2019-06-01,Tableau,8
+2107,2022-12-01,Sagemaker,2
+2108,2021-09-01,Integrating data,4
+2109,2019-10-01,Job scheduling,2
+2110,2020-09-01,Google Analytics,5
+2111,2021-01-01,Power BI,9
+2112,2021-10-01,Integrating data,4
+2113,2020-03-01,Job scheduling,2
+2114,2020-03-01,API,14
+2115,2019-04-01,Product owner,1
+2116,2019-01-01,Artificial Intelligence,8
+2117,2019-01-01,Machine Learning,8
+2118,2021-11-01,Job scheduling,1
+2119,2020-04-01,Software developer,5
+2120,2020-02-01,API,8
+2121,2019-09-01,Tableau,12
+2122,2022-04-01,Integrating data,9
+2123,2021-03-01,Automation requirements,10
+2124,2020-03-01,Microstrategy,4
+2125,2019-07-01,Google Analytics,9
+2126,2019-10-01,Product owner,6
+2127,2019-08-01,Application Programming Interface,1
+2128,2021-02-01,Digital analytics,4
+2129,2021-04-01,Google Analytics,3
+2130,2020-09-01,Power BI,12
+2131,2020-04-01,Data modeling,17
+2132,2022-02-01,Oracle Business Intelligence,7
+2133,2020-03-01,Esri,5
+2134,2021-08-01,Microstrategy,1
+2135,2020-09-01,ETL,6
+2136,2022-10-01,Job scheduling,3
+2137,2021-06-01,Data policies,3
+2138,2022-05-01,API,15
+2139,2021-01-01,Jira,5
+2140,2022-11-01,Data procedures,1
+2141,2020-11-01,Product owner,5
+2142,2021-01-01,Esri,3
+2143,2019-05-01,Power BI,6
+2144,2021-03-01,Software developer,5
+2145,2020-10-01,Software developer,6
+2146,2021-03-01,ARCGIS,9
+2147,2019-12-01,Data Engineering,2
+2148,2022-02-01,Esri,4
+2149,2019-01-01,API,2
+2150,2022-09-01,Application Programming Interface,2
+2151,2021-03-01,Google Analytics,3
+2152,2021-09-01,Advanced analytics,6
+2153,2021-06-01,Jira,5
+2154,2019-10-01,ETL,4
+2155,2019-05-01,Product owner,1
+2156,2019-06-01,Application Programming Interface,1
+2157,2020-09-01,Advanced analytics,2
+2158,2020-09-01,Automation requirements,6
+2159,2019-05-01,Data policies,2
+2160,2022-10-01,Jira,7
+2161,2020-11-01,Data Engineering,4
+2162,2022-05-01,descriptive and inferential statistics,1
+2163,2022-05-01,Data Engineering,9
+2164,2022-12-01,Software developer,4
+2165,2019-09-01,descriptive and inferential statistics,2
+2166,2020-01-01,Integrating data,5
+2167,2020-06-01,Automation requirements,5
+2168,2022-03-01,Stata,15
+2169,2019-01-01,Application development,23
+2170,2020-04-01,Advanced analytics,4
+2171,2021-09-01,Jira,7
+2172,2019-06-01,Product owner,2
+2173,2020-09-01,Esri,7
+2174,2021-09-01,Application Programming Interface,1
+2175,2022-11-01,Job scheduling,5
+2176,2022-03-01,descriptive and inferential statistics,2
+2177,2022-12-01,Application Programming Interface,1
+2178,2023-02-01,Automation requirements,4
+2179,2020-08-01,Flare,4
+2180,2019-11-01,Stata,4
+2181,2021-11-01,Flare,3
+2182,2022-07-01,R Studio,2
+2183,2020-08-01,Automation requirements,8
+2184,2022-11-01,Oracle Business Intelligence,2
+2185,2019-01-01,Software developer,1
+2186,2020-08-01,Data policies,1
+2187,2020-05-01,Data policies,5
+2188,2019-02-01,Google Analytics,8
+2189,2022-09-01,Google Analytics,4
+2190,2020-09-01,descriptive and inferential statistics,2
+2191,2020-09-01,Integrating data,7
+2192,2021-09-01,Digital analytics,2
+2193,2020-07-01,Oracle Business Intelligence,2
+2194,2019-06-01,Software developer,2
+2195,2021-06-01,Microstrategy,7
+2196,2021-12-01,Digital analytics,1
+2197,2019-11-01,Software developer,5
+2198,2022-08-01,Application Programming Interface,4
+2199,2020-04-01,Job scheduling,3
+2200,2021-09-01,Software developer,5
+2201,2019-12-01,Microstrategy,1
+2202,2023-02-01,ETL,6
+2203,2022-10-01,Flare,4
+2204,2019-07-01,Flare,10
+2205,2021-08-01,Advanced analytics,12
+2206,2019-01-01,Power BI,2
+2207,2019-10-01,Data procedures,1
+2208,2021-04-01,Automation requirements,5
+2209,2019-02-01,Software developer,3
+2210,2020-07-01,Flare,2
+2211,2022-12-01,Jira,5
+2212,2020-05-01,Data Engineering,2
+2213,2022-01-01,Data Engineering,3
+2214,2020-02-01,Job scheduling,1
+2215,2022-09-01,RGIS,1
+2216,2022-09-01,descriptive and inferential statistics,3
+2217,2019-06-01,Integrating data,6
+2218,2020-01-01,Google Analytics,6
+2219,2021-10-01,Software developer,3
+2220,2019-01-01,Job scheduling,1
+2221,2021-01-01,descriptive and inferential statistics,1
+2222,2021-08-01,Sagemaker,4
+2223,2022-07-01,Application Programming Interface,2
+2224,2019-03-01,Data policies,2
+2225,2023-01-01,Jira,11
+2226,2020-07-01,Jira,5
+2227,2023-02-01,Flare,2
+2228,2021-10-01,Data policies,3
+2229,2021-02-01,Microstrategy,1
+2230,2020-02-01,Microstrategy,2
+2231,2021-06-01,Data procedures,1
+2232,2019-09-01,Digital analytics,1
+2233,2019-02-01,Esri,2
+2234,2021-03-01,Product owner,4
+2235,2022-03-01,Data Engineering,7
+2236,2020-05-01,Google Analytics,2
+2237,2020-12-01,Microstrategy,3
+2238,2021-06-01,Data Engineering,7
+2239,2023-02-01,Software developer,1
+2240,2019-05-01,Flare,5
+2241,2021-02-01,Integrating data,3
+2242,2022-12-01,Oracle Business Intelligence,2
+2243,2019-12-01,Flare,2
+2244,2019-06-01,ETL,2
+2245,2021-09-01,Data Engineering,2
+2246,2019-12-01,Software developer,4
+2247,2019-08-01,ETL,1
+2248,2019-08-01,Data Engineering,3
+2249,2020-01-01,Digital analytics,2
+2250,2019-02-01,IBM Cognos,2
+2251,2023-02-01,Advanced analytics,8
+2252,2020-03-01,IBM Cognos,2
+2253,2022-06-01,Digital analytics,2
+2254,2020-01-01,Flare,10
+2255,2019-03-01,Jira,3
+2256,2023-02-01,Integrating data,5
+2257,2019-01-01,Data Engineering,3
+2258,2020-09-01,Data policies,3
+2259,2022-09-01,Sagemaker,1
+2260,2022-03-01,R Studio,1
+2261,2022-10-01,Application Programming Interface,2
+2262,2021-01-01,Google Analytics,4
+2263,2019-08-01,Data policies,1
+2264,2021-03-01,Data policies,2
+2265,2021-03-01,Digital analytics,4
+2266,2020-04-01,Google Analytics,2
+2267,2021-08-01,Job scheduling,2
+2268,2021-06-01,Sagemaker,1
+2269,2021-06-01,R Studio,1
+2270,2020-07-01,Software developer,2
+2271,2021-01-01,R Studio,1
+2272,2019-08-01,Advanced analytics,3
+2273,2019-11-01,Power BI,4
+2274,2019-11-01,Esri,4
+2275,2021-10-01,Product owner,1
+2276,2021-05-01,Job scheduling,1
+2277,2021-01-01,Digital analytics,2
+2278,2021-06-01,Job scheduling,3
+2279,2021-02-01,IBM Cognos,4
+2280,2019-04-01,Advanced analytics,3
+2281,2019-04-01,Integrating data,4
+2282,2019-08-01,Digital analytics,2
+2283,2020-12-01,Oracle Business Intelligence,1
+2284,2022-11-01,Software developer,6
+2285,2022-03-01,Microstrategy,3
+2286,2021-11-01,Esri,8
+2287,2022-04-01,Advanced analytics,3
+2288,2020-03-01,Automation requirements,4
+2289,2022-04-01,Microstrategy,2
+2290,2019-07-01,Product owner,5
+2291,2021-03-01,IBM Cognos,1
+2292,2019-03-01,Job scheduling,2
+2293,2019-02-01,ETL,3
+2294,2023-02-01,Oracle Business Intelligence,1
+2295,2022-12-01,Digital analytics,2
+2296,2019-07-01,IBM Cognos,2
+2297,2019-06-01,Google Analytics,1
+2298,2019-08-01,Power BI,3
+2299,2020-06-01,Digital analytics,2
+2300,2020-05-01,Job scheduling,2
+2301,2021-08-01,Data Engineering,3
+2302,2020-06-01,Product owner,2
+2303,2021-08-01,Data policies,1
+2304,2019-06-01,Data policies,1
+2305,2019-10-01,Application Programming Interface,2
+2306,2021-10-01,Microstrategy,1
+2307,2022-02-01,Google Analytics,3
+2308,2020-11-01,Sagemaker,1
+2309,2022-05-01,IBM Cognos,2
+2310,2020-07-01,Integrating data,5
+2311,2023-01-01,Jupyter Lab,2
+2312,2023-01-01,Kinetica,2
+2313,2021-11-01,Jira,5
+2314,2019-06-01,Jira,2
+2315,2023-01-01,Sagemaker,2
+2316,2022-06-01,Data policies,1
+2317,2020-07-01,Application Programming Interface,1
+2318,2019-01-01,Integrating data,3
+2319,2022-07-01,descriptive and inferential statistics,3
+2320,2021-02-01,Product owner,3
+2321,2019-10-01,Advanced analytics,1
+2322,2020-10-01,Data Engineering,3
+2323,2022-05-01,Data procedures,2
+2324,2020-06-01,Flare,5
+2325,2021-02-01,Data procedures,1
+2326,2021-09-01,Data policies,1
+2327,2022-03-01,Job scheduling,1
+2328,2021-02-01,Data policies,3
+2329,2019-04-01,Data policies,1
+2330,2019-08-01,Product owner,3
+2331,2020-05-01,Power BI,4
+2332,2019-11-01,Google Analytics,1
+2333,2021-07-01,Sagemaker,2
+2334,2020-02-01,Google Analytics,1
+2335,2020-02-01,ETL,1
+2336,2019-08-01,Looker,1
+2337,2022-04-01,Data policies,5
+2338,2021-02-01,Job scheduling,2
+2339,2020-02-01,Software developer,2
+2340,2020-03-01,Data policies,2
+2341,2020-12-01,Data policies,3
+2342,2019-12-01,Esri,6
+2343,2022-03-01,Data procedures,1
+2344,2019-05-01,Advanced analytics,2
+2345,2023-01-01,Oracle Business Intelligence,5
+2346,2020-06-01,Microstrategy,1
+2347,2020-04-01,Data policies,2
+2348,2020-09-01,Oracle Business Intelligence,3
+2349,2023-01-01,Digital analytics,5
+2350,2022-04-01,Job scheduling,1
+2351,2020-10-01,Integrating data,2
+2352,2022-05-01,Google Analytics,2
+2353,2019-07-01,Data Engineering,2
+2354,2020-10-01,Digital analytics,1
+2355,2022-12-01,Flare,4
+2356,2023-02-01,R Studio,1
+2357,2019-09-01,Job scheduling,2
+2358,2021-07-01,Data procedures,1
+2359,2019-05-01,ETL,2
+2360,2020-06-01,Application Programming Interface,3
+2361,2023-02-01,Data policies,2
+2362,2021-10-01,Data Engineering,3
+2363,2020-01-01,Microstrategy,1
+2364,2020-05-01,descriptive and inferential statistics,1
+2365,2021-02-01,Oracle Business Intelligence,1
+2366,2019-03-01,Software developer,2
+2367,2021-06-01,Flare,6
+2368,2021-11-01,Digital analytics,1
+2369,2021-03-01,Jira,3
+2370,2019-09-01,Microstrategy,3
+2371,2020-04-01,Application Programming Interface,1
+2372,2019-04-01,Data Engineering,1
+2373,2019-09-01,Power BI,2
+2374,2022-09-01,Oracle Business Intelligence,3
+2375,2021-01-01,Integrating data,2
+2376,2019-10-01,Google Analytics,2
+2377,2020-11-01,Google Analytics,2
+2378,2020-03-01,Sagemaker,2
+2379,2019-06-01,Job scheduling,1
+2380,2022-11-01,Google Analytics,4
+2381,2022-12-01,Microstrategy,1
+2382,2021-10-01,Google Analytics,2
+2383,2021-05-01,Data procedures,1
+2384,2021-11-01,Product owner,1
+2385,2020-01-01,Data procedures,1
+2386,2019-06-01,Oracle Business Intelligence,3
+2387,2019-10-01,Oracle Business Intelligence,2
+2388,2020-08-01,Digital analytics,1
+2389,2019-09-01,Data policies,2
+2390,2020-08-01,Job scheduling,3
+2391,2019-06-01,Microstrategy,2
+2392,2022-05-01,Data policies,1
+2393,2019-01-01,Data procedures,1
+2394,2022-02-01,descriptive and inferential statistics,1
+2395,2020-06-01,Software developer,2
+2396,2020-01-01,ETL,2
+2397,2022-06-01,Google Analytics,4
+2398,2022-04-01,Application Programming Interface,1
+2399,2022-06-01,Application Programming Interface,1
+2400,2019-10-01,Data policies,1
+2401,2019-07-01,Data procedures,1
+2402,2019-12-01,IBM Cognos,3
+2403,2019-02-01,Power BI,1
+2404,2022-08-01,Code debugging,2
+2405,2019-09-01,Google Analytics,1
+2406,2019-04-01,Software developer,2
+2407,2020-05-01,Integrating data,4
+2408,2021-12-01,Application Programming Interface,1
+2409,2020-11-01,Microstrategy,1
+2410,2020-11-01,Digital analytics,3
+2411,2021-03-01,Esri,1
+2412,2019-03-01,Data procedures,1
+2413,2020-09-01,Microstrategy,1
+2414,2022-09-01,R Studio,1
+2415,2022-03-01,Digital analytics,1
+2416,2020-04-01,R Studio,1
+2417,2022-10-01,Data policies,3
+2418,2021-03-01,Job scheduling,2
+2419,2021-03-01,Data procedures,2
+2420,2019-02-01,Oracle Business Intelligence,3
+2421,2021-10-01,Advanced analytics,1
+2422,2019-05-01,Job scheduling,2
+2423,2019-11-01,Data procedures,1
+2424,2020-05-01,Microstrategy,1
+2425,2019-11-01,Product owner,1
+2426,2019-03-01,Product owner,1
+2427,2019-01-01,ETL,2
+2428,2019-05-01,Data Engineering,1
+2429,2019-01-01,Product owner,1
+2430,2022-07-01,Microstrategy,2
+2431,2023-02-01,Data procedures,1
+2432,2022-08-01,RGIS,1
+2433,2022-09-01,Digital analytics,1
+2434,2020-06-01,Job scheduling,1
+2435,2022-09-01,Data policies,1
+2436,2019-05-01,descriptive and inferential statistics,1
+2437,2021-12-01,Data policies,1
+2438,2019-06-01,Data Engineering,1
+2439,2022-06-01,Job scheduling,1
+2440,2020-12-01,Software developer,1
+2441,2019-02-01,Product owner,2
+2442,2021-02-01,R Studio,1
+2443,2021-03-01,Microstrategy,3
+2444,2021-05-01,IBM Cognos,1
+2445,2021-04-01,IBM Cognos,1
+2446,2022-04-01,Qliksense,1
+2447,2019-11-01,Job scheduling,1
+2448,2021-07-01,Google Analytics,1
+2449,2022-08-01,Digital analytics,1
+2450,2021-11-01,R Studio,1
+2451,2022-06-01,Microstrategy,1
+2452,2020-10-01,Oracle Business Intelligence,1
+2453,2022-02-01,Application Programming Interface,1
+2454,2019-01-01,Google Analytics,1
+2455,2022-03-01,Google Analytics,1

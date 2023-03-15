@@ -26,10 +26,12 @@ timeseries = pd.read_csv("https://raw.githubusercontent.com/Max-Tee/GovSkills/ma
 
 skills_list = list(stats['Item'])
 
+if 'random_skill' not in st.session_state:
+    st.session_state["random_skill"] = random.choice(skills_list)
 
 #title, add animation 
-st.markdown("<h1 style='text-align: center;'>Now hiring <span style='font-weight: bold; color: #4287f5;'>Tableau</span> skills!</h1>", unsafe_allow_html=True)
-st.write("The federal government currently has **_21,453_** open jobs. See what tech skills are trending and join the federal workforce!")
+st.markdown("<h1 style='text-align: center;'>The federal government is now hiring for<span style='font-weight: bold; color: #4287f5;'> "+st.session_state["random_skill"]+" </span></h1>", unsafe_allow_html=True)
+st.write("The federal government currently has **10,000+** open jobs. See what tech skills are trending and join the federal workforce!")
 
 #st.subheader("Search by skill:")
 keywords = st_tags(
@@ -61,8 +63,8 @@ while len(keywords) == 0:
                     y2=0
                 )
             ).encode(
-                alt.X('PostedData_Formatted:T'),
-                alt.Y('count_jobs_2022:Q',scale=alt.Scale(domain=(0,150)))
+                alt.X('PostedData_Formatted:T',title="Posted Date", axis=alt.Axis(title="Posted Date", grid=False)),
+                alt.Y('count_jobs_2022:Q',scale=alt.Scale(domain=(0,150)),axis=alt.Axis(title="Job Count", grid=False))
             ).properties(
                 width=200,
                 height=200
@@ -141,8 +143,8 @@ else:
         col9, col10 = st.columns(2)
 
         with col9:
-            st.title(keywords[0])
-            st.write("Tableau is a business intelligence software emphasizing a drag-and-drop approach to developing visualizations built on data stored in analytics databases, transactional systems, and static datasets.")
+            st.subheader(keywords[0])
+            st.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ")
             st.write("[Wikipedia](https://en.wikipedia.org/wiki/Tableau_Software)")
 
         with col10:
@@ -159,11 +161,10 @@ else:
                     y2=0
                 )
             ).encode(
-                alt.X('PostedData_Formatted:T'),
-                alt.Y('count_jobs_2022:Q')
+                alt.X('PostedData_Formatted:T',axis=alt.Axis(title="Posted Date", grid=False)),
+                alt.Y('count_jobs_2022:Q',axis=alt.Axis(title="Job Count", grid=False))
             )
             st.altair_chart(big_chart, use_container_width=True)
-
 
         st.subheader("**Summary Stats (Calendar Year 2022)**")
         st.write("###")
@@ -256,4 +257,3 @@ else:
             <a href={url}><button style="background-color:c5dafa;">Submit Skill!</button></a>
             ''',
             unsafe_allow_html=True)
-

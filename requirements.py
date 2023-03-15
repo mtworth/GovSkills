@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+st_card_component
+random
+streamlit_tags
+altair
+requests

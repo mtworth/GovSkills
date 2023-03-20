@@ -12,17 +12,18 @@ import requests
 st.set_page_config(page_title="GovSkills", page_icon='🛠️')
 
 #hide menu
-#hide_menu_style = """
-#        <style>
-#        #MainMenu {visibility: hidden;}
-#        </style>
-#        """
-#st.markdown(hide_menu_style, unsafe_allow_html=True)
+hide_menu_style = """
+        <style>
+        #MainMenu {visibility: hidden;}
+        </style>
+        """
+st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 
 #import data
 stats = pd.read_csv("https://raw.githubusercontent.com/Max-Tee/GovSkills/main/stats_df.csv")
 timeseries = pd.read_csv("https://raw.githubusercontent.com/Max-Tee/GovSkills/main/timeseries_skill.csv")
+
 
 skills_list = list(stats['Item'])
 
@@ -30,7 +31,7 @@ if 'random_skill' not in st.session_state:
     st.session_state["random_skill"] = random.choice(skills_list)
 
 #title, add animation 
-st.markdown("<h1 style='text-align: center;'>The federal government is now hiring for<span style='font-weight: bold; color: #4287f5;'> "+st.session_state["random_skill"]+" </span></h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>The federal government is now hiring for<span style='font-weight: bold; color: #4287f5;'> "+st.session_state["random_skill"]+"! </span></h1>", unsafe_allow_html=True)
 st.write("The federal government currently has **10,000+** open jobs. See what tech skills are trending and join the federal workforce!")
 
 #st.subheader("Search by skill:")
@@ -92,38 +93,6 @@ while len(keywords) == 0:
         st.write(trending[5])
         st.altair_chart(charts[5], use_container_width=True)
 
-
-    st.subheader("Open Tech Roles")
-    col6, col7, col8 = st.columns(3)
-
-    with col6:
-        hasClicked = card_component(
-        title="Management Analyst",
-        context="Posted on 9/12/2022",
-        highlight_start = 0,
-        highlight_end = 0,
-        score = "Department of Defense",
-        url="https://usajobs.gov"
-        )
-    with col7:
-        card_component(
-        title="Management Analyst",
-        context="Posted on 9/12/2022",
-        highlight_start = 0,
-        highlight_end = 0,
-        score = "Department of Agriculture",
-        url="https://usajobs.gov"
-        )
-    with col8:
-        card_component(
-        title="Management Analyst",
-        context="Posted on 9/12/2022",
-        highlight_start = 0,
-        highlight_end = 0,
-        score = "Department of Commerce",
-        url="https://usajobs.gov"
-    )
-
     st.stop()
 
 
@@ -136,6 +105,8 @@ else:
         job_count = stats_filt.loc[stats_filt['Item']==skill, 'count_jobs_2022'].iloc[0]
         agency_count = stats_filt.loc[stats_filt['Item']==skill, 'agency_count_2022'].iloc[0]
         median_salary = stats_filt.loc[stats_filt['Item']==skill, 'median_salary_2022'].iloc[0]
+        wikilink = stats_filt.loc[stats_filt['Item']==skill, 'Wikipedia Link'].iloc[0]
+        description = stats_filt.loc[stats_filt['Item']==skill, 'Description'].iloc[0]
 
         timeseries_filt = timeseries[timeseries['Item']==skill]
 
@@ -144,8 +115,8 @@ else:
 
         with col9:
             st.subheader(keywords[0])
-            st.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ")
-            st.write("[Wikipedia](https://en.wikipedia.org/wiki/Tableau_Software)")
+            st.write(description)
+            st.write("[Wikipedia](wikilink)")
 
         with col10:
             #big chart
@@ -182,14 +153,14 @@ else:
 
 
         st.write("###")
-        st.subheader("Open Tableau Roles")
+        st.subheader("Open " + skill + " Roles")
 
 
         host = 'data.usajobs.gov'
         userAgent = 'mtitsworth@icloud.com'
         authKey = 'i7187cutNY9D8fV4scNjYHo4rNVeIXsSCDENGVmJKQY='
 
-        base_url = 'https://data.usajobs.gov/api/search?Keyword=PowerBI&ResultsPerPage=500'
+        base_url = 'https://data.usajobs.gov/api/search?Keyword='+skill+'&ResultsPerPage=500'
 
         page_response = requests.get(
             base_url,
@@ -217,7 +188,7 @@ else:
             highlight_start = 0,
             highlight_end = 0,
             score = random['MatchedObjectDescriptor.DepartmentName'].iloc[i],
-            url="https://usajobs.gov"
+            url=random['MatchedObjectDescriptor.PositionURI'].iloc[i]
             )
         with col15:
             i = 1
@@ -227,7 +198,7 @@ else:
             highlight_start = 0,
             highlight_end = 0,
             score = random['MatchedObjectDescriptor.DepartmentName'].iloc[i],
-            url="https://usajobs.gov"
+            url=random['MatchedObjectDescriptor.PositionURI'].iloc[i]
             )
         with col16:
             i = 2
@@ -237,9 +208,11 @@ else:
             highlight_start = 0,
             highlight_end = 0,
             score = random['MatchedObjectDescriptor.DepartmentName'].iloc[i],
-            url="https://usajobs.gov"
+            url=random['MatchedObjectDescriptor.PositionURI'].iloc[i]
             )
+
         st.stop()
+
 
 
     else: 

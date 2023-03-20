@@ -149,7 +149,7 @@ else:
             st.metric("Number of Agencies Hiring", agency_count)
 
         with col13:
-            st.metric("Median Posted Salary", "$" + str('${:,.2f}'.format(median_salary))
+            st.metric("Median Posted Salary", "$" + str('${:,.2f}'.format(median_salary)))
 
 
         st.write("###")

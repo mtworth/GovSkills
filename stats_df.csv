@@ -1,58 +1,11 @@
-,"year(""PostedData_Formatted"")",Item,count_jobs_2022,median_salary_2022,agency_count_2022
-0,2022,Statistics,17702,86190.0,293
-1,2022,Data standards,315,103311.0,77
-2,2022,Analyzing data,7734,77394.5,236
-3,2022,Application software,1403,91269.5,132
-4,2022,Python,1168,109639.0,139
-5,2022,Coding,5927,64496.5,171
-6,2022,Computer science,14146,95291.0,255
-7,2022,Programming languages,1003,96483.0,138
-8,2022,Technical requirements,3443,95877.0,206
-9,2022,R,10284,86190.0,234
-10,2022,Data Analysis,7237,93369.0,267
-11,2022,Data requirements,772,94993.0,109
-12,2022,Data management,7843,80980.25,247
-13,2022,Power BI,464,102775.5,66
-14,2022,Data visualization,673,112675.0,108
-15,2022,Qualitative analysis,677,101875.0,87
-16,2022,Quantitative analysis,1403,92502.5,132
-17,2022,Data Science,907,116909.5,139
-18,2022,Agile,1480,122845.5,148
-19,2022,Advanced analytics,127,143482.5,27
-20,2022,Metadata,509,94213.25,75
-21,2022,Data reports,1037,77173.0,90
-22,2022,Software developer,85,93873.5,18
-23,2022,ARCGIS,308,81902.0,47
-24,2022,Esri,105,103219.0,28
-25,2022,Application development,616,119231.5,112
-26,2022,Business intelligence,714,112379.25,118
-27,2022,SAS,1087,94914.5,107
-28,2022,Stata,232,110368.5,48
-29,2022,Artificial Intelligence,532,128248.5,86
-30,2022,Automation requirements,157,73958.0,22
-31,2022,Data modeling,256,116620.5,65
-32,2022,Machine Learning,635,119674.5,95
-33,2022,Flare,61,36.959999999999994,8
-34,2022,Data policies,35,143910.5,14
-35,2022,Product owner,81,128678.0,24
-36,2022,Tableau,557,110368.5,95
-37,2022,ETL,134,121440.5,33
-38,2022,Oracle Business Intelligence,43,98193.75,13
-39,2022,API,198,112450.5,50
-40,2022,Integrating data,112,107718.5,28
-41,2022,Data procedures,11,81668.0,6
-42,2022,SPSS,268,107660.0,49
-43,2022,Job scheduling,19,97663.5,7
-44,2022,Jira,88,119063.25,26
-45,2022,Sagemaker,7,145167.5,4
-46,2022,Data Engineering,100,127594.75,30
-47,2022,R Studio,6,103628.5,4
-48,2022,Google Analytics,66,103311.0,11
-49,2022,Digital analytics,24,143910.5,6
-50,2022,Microstrategy,26,112116.0,9
-51,2022,Qliksense,4,131239.25,2
-52,2022,Application Programming Interface,18,116453.25,9
-53,2022,descriptive and inferential statistics,15,95013.75,8
-54,2022,IBM Cognos,2,102749.0,1
-55,2022,Code debugging,4,122845.5,0
-56,2022,RGIS,2,142500.0,1
+"year(""PostedData_Formatted"")",Item,count_jobs_2022,median_salary_2022,agency_count_2022,Include,Description,Wikipedia Link
+2022,Python,1168,109639,139,Y,"Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Python has many use cases, but has been adopted at scale by data scientists in reason years.",https://en.wikipedia.org/wiki/Python_(programming_language)?wprov=sfti1
+2022,Power BI,464,102775.5,66,Y,Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. It is part of the Microsoft Power Platform.,https://en.wikipedia.org/wiki/Microsoft_Power_BI?wprov=sfti1
+2022,Data visualization,673,112675,108,Y,"Data visualization is an interdisciplinary field that deals with the graphic representation of data.Data and information visualization has its roots in the field of statistics, as early as the 18th century, and is therefore generally considered a branch of descriptive statistics. However, because both design skills and statistical and computing skills are required to visualize effectively, it is argued by academics that it is both an art and a science.",https://en.wikipedia.org/wiki/Data_and_information_visualization?wprov=sfti1
+2022,Data Science,907,116909.5,139,Y,"Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured, and unstructured data.",https://en.wikipedia.org/wiki/Data_science?wprov=sfti1
+2022,Business intelligence,714,112379.25,118,Y,"Business intelligence (BI) comprises the strategies and technologies used by enterprises for the data analysis and management of business information. Common functions of business intelligence technologies include reporting, online analytical processing, analytics, dashboard development, data mining, process mining, complex event processing, business performance management, benchmarking, text mining, predictive analytics, and prescriptive analytics.",https://en.wikipedia.org/wiki/Business_intelligence?wprov=sfti1
+2022,Stata,232,110368.5,48,Y,"Stata is a general-purpose statistical software package developed by StataCorp for data manipulation, visualization, statistics, and automated reporting. It is used by researchers in many fields, including biomedicine, epidemiology, sociology and science.",https://en.wikipedia.org/wiki/Stata?wprov=sfti1
+2022,Artificial Intelligence,532,128248.5,86,Y,"Artificial intelligence (AI) is intelligence—perceiving, synthesizing, and inferring information—demonstrated by machines, as opposed to intelligence displayed by non-human animals and humans. Example tasks in which this is done include speech recognition, computer vision, translation between (natural) languages, as well as other mappings of inputs.",https://en.wikipedia.org/wiki/Artificial_intelligence?wprov=sfti1
+2022,Machine Learning,635,119674.5,95,Y,"Machine learning (ML) is a field of inquiry devoted to understanding and building methods that ""learn"" – that is, methods that leverage data to improve performance on some set of tasks. It is seen as a part of artificial intelligence.",https://en.wikipedia.org/wiki/Machine_learning?wprov=sfti1
+2022,Tableau,557,110368.5,95,Y,"Tableau is a data vizualization tool. Tableau products query relational databases, online analytical processing cubes, cloud databases, and spreadsheets to generate graph-type data visualizations. The software can also extract, store, and retrieve data from an in-memory data engine.",https://en.wikipedia.org/wiki/Tableau_Software?wprov=sfti1
+2022,Data Engineering,100,127594.75,30,Y,"Data engineering refers to the building of systems to enable the collection and usage of data. This data is usually used to enable subsequent analysis and data science; which often involves machine learning.[1][2] Making the data usable usually involves substantial compute and storage, as well as data processing and cleaning.",https://en.wikipedia.org/wiki/Data_engineering?wprov=sfti1

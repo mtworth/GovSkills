@@ -184,7 +184,7 @@ else:
             i = 0
             card_component(
             title=random['MatchedObjectDescriptor.PositionTitle'].iloc[i],
-            context="Posted on 9/12/2022",
+            context="",
             highlight_start = 0,
             highlight_end = 0,
             score = random['MatchedObjectDescriptor.DepartmentName'].iloc[i],
@@ -194,7 +194,7 @@ else:
             i = 1
             card_component(
             title=random['MatchedObjectDescriptor.PositionTitle'].iloc[1],
-            context="Posted on 9/12/2022",
+            context="",
             highlight_start = 0,
             highlight_end = 0,
             score = random['MatchedObjectDescriptor.DepartmentName'].iloc[i],
@@ -204,7 +204,7 @@ else:
             i = 2
             card_component(
             title=random['MatchedObjectDescriptor.PositionTitle'].iloc[i],
-            context="Posted on 9/12/2022",
+            context="",
             highlight_start = 0,
             highlight_end = 0,
             score = random['MatchedObjectDescriptor.DepartmentName'].iloc[i],

@@ -157,8 +157,8 @@ else:
 
 
         host = 'data.usajobs.gov'
-        userAgent = 'mtitsworth@icloud.com'
-        authKey = 'i7187cutNY9D8fV4scNjYHo4rNVeIXsSCDENGVmJKQY='
+        userAgent = useAgent
+        authKey = authKey
 
         base_url = 'https://data.usajobs.gov/api/search?Keyword='+skill+'&ResultsPerPage=500'
 
@@ -166,8 +166,8 @@ else:
             base_url,
             headers={
                 "Host": host,
-                "User-Agent": userAgent,
-                "Authorization-Key": authKey
+                "User-Agent": st.secrets["userAgent"],
+                "Authorization-Key": st.secrets["authKey"]
             })
 
 

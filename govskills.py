@@ -116,7 +116,7 @@ else:
         with col9:
             st.subheader(keywords[0])
             st.write(description)
-            st.write("[Wikipedia](wikilink)")
+            st.write("[Wikipedia]("+wikilink+")")
 
         with col10:
             #big chart

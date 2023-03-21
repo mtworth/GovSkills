@@ -157,8 +157,8 @@ else:
 
 
         host = 'data.usajobs.gov'
-        userAgent = useAgent
-        authKey = authKey
+        userAgent = st.secrets["userAgent"]
+        authKey = st.secrets["authKey"]
 
         base_url = 'https://data.usajobs.gov/api/search?Keyword='+skill+'&ResultsPerPage=500'
 
@@ -166,8 +166,8 @@ else:
             base_url,
             headers={
                 "Host": host,
-                "User-Agent": st.secrets["userAgent"],
-                "Authorization-Key": st.secrets["authKey"]
+                "User-Agent": userAgent,
+                "Authorization-Key": authKey
             })
 
 

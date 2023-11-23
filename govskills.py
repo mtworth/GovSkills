@@ -1,3 +1,4 @@
+
 # Import the libraries.
 import streamlit as st
 import pandas as pd
@@ -96,10 +97,13 @@ while len(keywords) == 0:
     st.stop()
 
 
-else:
-    while keywords[0] in skills_list:
+#cleaned_selection = keywords[0].capitalize()
 
-        skill = keywords[0]
+
+else:
+    while keywords[0].capitalize() in skills_list:
+
+        skill = keywords[0].capitalize()
 
         stats_filt = stats[stats['Item'] == skill] 
         job_count = stats_filt.loc[stats_filt['Item']==skill, 'count_jobs_2022'].iloc[0]
